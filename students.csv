@@ -1,0 +1,895 @@
+"Nombre del profe","Apellido del profe","Curso","Nombre","Apellido","Segundo Apellido","Telefono directo","Encargado 1","Telefono Encargado 1","Encargado 2","Telefono Encargado 2","Direccion","horario","ProfeID","courseID"
+Scarlette,Rivera,Ingles,Keylor,Chaves,,,,,,,"De la antigua embajada Brasil 750 mts suroeste, frente a iglesia cristiana.","3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Leidy,Mendez,,,,,,,"Bajo los Anonos, la rotonda.","3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Melanie,Mendez,,,Karina Diaz Flores,"60,954,355",,,"Bajo Los Anonos, de la antigua Ferreteria Santa Barbara 100 S y 100 este","3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Henry,Garcia,,,Mirna Rizo Alvarez,"72,430,637",,,De la iglesia Evangelica primera entrada a mano derecja,"3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Melissa,Gutierrez,,,Jaqueline Perez,"87,388,998",,"88,086,531",,"3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Francisco,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Fernanda,Montes,,,Blanca Montes,"70,459,623",,,,"3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Santiago,Zuniga,Leon,,Rocio Fernandez,"86,237,346",Carmen Marin,"40,308,998","calle los mangos, de la muebleria 100 este 350 sur","3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Ian,Guevara,Yesca,"71164491",Raquel Guerrero Urbina,,Anielka Yeska Guerrero,"72,494,346","Calle Los Mangos. De las bodegas de Santa barbara, 75 sur. Casa gradas de techo a mano derecha color verde","3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Andrew,Zuniga,Morales,,Tatiana Morales,"87,411,149",,,,"3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,David,Jimenez,,,Alejandra Jimenez,"83,631,109",,,,"3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Amberly,Rios,,,Jessica Rios,"72,580,142",,,,"3 a 4 - H - Ingles - Kinder  - Scarlette  Rivera",38,54
+Scarlette,Rivera,Ingles,Keiry,Madrigal,,,Joseline Viales Ovares,"87,483,650",,,"Detras de la Iglesia Catolica, casa color papaya","4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Yomaira,Peinado Porras,,,Fanny Rebeca Porras,"83,581,174",,,De la embajada de brasil 200msur.,"4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Darwin,Centeno,Zamora,,Yaelki del Carmen,"70,059,885",,,"en el bajo, casa de 2 pisos celeste","4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Dayana,Alvarez,,,Edith Umana,"64,301,691",,"61,384,981",,"4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Monserrat,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Jefry,Perez,Narbaez,,Belkin Narvaez,"71,590,532",,,"de la antigua ferreteria santa barbara 100 mts norte, 300 mts sur, los anonos calle los mangos","4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Benjamin,Canales,Aguilar,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Eber,Canales,Aguilera,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Scarlette,Rivera,Ingles,Marvin,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"4 a 5 - H - Ingles - Primero - Scarlette  Rivera",38,55
+Maria,Sasso,Ingles,Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Genesis,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Franciny,Flores,Gonzales,,Mercedes Gonzales,"87,019,372",Henry Flores,"89,786,805",,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Olga,Sequeira,,,Hazel Sequeira Garci­a,"63,471,154",,,,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Bryan,Lopez,,,,,,,"Calle los Mangos, Bajo los Anonos.","3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Tamara,Elizondo,,,Carolina Mairena Avalos,"61,071,258",,,,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Kimberly,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Litzy,Mejia,,,,,,,,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Tiffany,Quesada,,,Alejandra Delgadillo,"85,744,204",,,,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Maria,Sasso,Ingles,Aimar,Rios,,,Jessica Rios,"72,580,142",,,,"3 a 4 - M - Ingles - Segundo - Maria  Sasso",22,56
+Tatiana,Brenes,Ingles - Tercero Grupo A,Isabel,Rodriguez,,,Teresa Garcia,"60,793,551",,,del antiguo CEN CINAI 200 mts sur,"4 a 5 - H - Ingles - Tercero Grupo A - Tatiana  Brenes",60,57
+Tatiana,Brenes,Ingles - Tercero Grupo A,Harinton,Yesca,,,Raquel Guerrero Urbina,"71,022,475",,,,"4 a 5 - H - Ingles - Tercero Grupo A - Tatiana  Brenes",60,57
+Tatiana,Brenes,Ingles - Tercero Grupo A,Justin Matias,Anchia,,,Cindy Murillo,"83,833,942",,,de credi mueble 100 este y 150 sur,"4 a 5 - H - Ingles - Tercero Grupo A - Tatiana  Brenes",60,57
+Tatiana,Brenes,Ingles - Tercero Grupo A,Gari,Acevedo,,,Mari­a Fernanda Castillo,"62,587,466",,,,"4 a 5 - H - Ingles - Tercero Grupo A - Tatiana  Brenes",60,57
+Tatiana,Brenes,Ingles - Tercero Grupo A,Gabriela,Rios,,,Jessica Rios,"72,580,142",,,,"4 a 5 - H - Ingles - Tercero Grupo A - Tatiana  Brenes",60,57
+Johan,Tijerino,Ingles - Tercero Grupo B,Kristel,Vanegas,Zamora,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","6 a 7 -  - T - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Wendy,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"6 a 7 -  - T - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Virginia,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"6 a 7 -  - T - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Bayoleth,Lopez,,,Sara Lopez,"28,765,367",Sandra Jimenez,"67,898,765",,"6 a 7 -  - T - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","6 a 7 -  - T - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Neithan,Campos,Sanchez,"85938310",Lilian Sanchez Bemudez,"85,938,310",,,,"6 a 7 -  - T - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Kristel,Vanegas,Zamora,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","6 a 7 - T - Ingles - Tercero Grupo B - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Wendy,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"6 a 7 - T - Ingles - Tercero Grupo B - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Virginia,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"6 a 7 - T - Ingles - Tercero Grupo B - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Bayoleth,Lopez,,,Sara Lopez,"28,765,367",Sandra Jimenez,"67,898,765",,"6 a 7 - T - Ingles - Tercero Grupo B - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","6 a 7 - T - Ingles - Tercero Grupo B - Johan  Tijerino",71,58
+Johan,Tijerino,Ingles - Tercero Grupo B,Neithan,Campos,Sanchez,"85938310",Lilian Sanchez Bemudez,"85,938,310",,,,"6 a 7 - T - Ingles - Tercero Grupo B - Johan  Tijerino",71,58
+Maria Jose,Rodriguez,Ingles,Isabella,Baldizon,,"72122132",Maria Isabel Narvaez,"70,548,245",,,"De la embajada de Brasil 200 mts sur y 25 este de los antiguos telefonos publicos, casa porton negro.","4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Aston,Porras,,,Fanny Rebeca Porras,"83,581,174",,,,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Jose,Lazarte,Reyes,,Rosa Ana Lazarte,"88,012,524",,,,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Estrella,Lemuz,Mendoza,,Amparo Mendoza Degadillo,"72,507,688",,,De credimuebles 150 este casa color marron,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Jefferson,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Katy,Reyes,Urbina,,Marisol Murillo Rodriguez,"85,438,851",,,"Calle la quebrada, casa gris.","4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Yareydi,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"san jose, bajo los anonos","4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Jimena,Calvo,,,Mariana Morales,"85,544,892",,"22,912,252",,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Vivian,Murillo,,,Francys Yahoska R,"72,415,980",,,del antiguo CEN CINAI 300 sur y 75 oeste.,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Aaron,Duarte,Gonzalez,,Grisselda Daniela Gonzalez MIranda,"62,940,777",,,,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Maria Jose,Rodriguez,Ingles,Andres,Mora,Arroyo,,Lesly Angulo Mercedes,"63,785,852",,"84,852,627",,"4 a 5 - T - Ingles - Cuarto - Maria Jose  Rodriguez",55,59
+Fiorella,Montero,Ingles,Yeron,Leandro,,,Marisol Rosales / Alfredo Leandro Garro,"72,395,061",,,"De la embajada de Brasil 500 m oeste, de la iglesia del Divino NiÃ±o 150 m sur, color verde, mano derecha","6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Fiorella,Montero,Ingles,Maria,Gonzalez,,,Edith Umana,"64,301,691",,"61,384,989",,"6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Fiorella,Montero,Ingles,Angie,Espinoza,,,Anita de los Angeles Espinoza Vanegas,"61,856,606",,,,"6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Fiorella,Montero,Ingles,Raquel,Montes,,,Blanca Montes,"70,459,623",,,,"6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Fiorella,Montero,Ingles,Keychel,Scott,Gomez,,Maria Gomez Quiroz,"72,095,867",,,Detras del antiguo kinder,"6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Fiorella,Montero,Ingles,Juan,Castellon,,,Remigia Obando,,"62408994","84,701,336",,"6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Fiorella,Montero,Ingles,Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Fiorella,Montero,Ingles,Paola,Perez,,,Dulce Diaz,"87,343,156",,,"De la Embaja de Brasil 500 mts sur y 200 oeste, detras de la iglesia","6 a 7 - T - Ingles - Quinto - Fiorella  Montero",7,60
+Valeria,Villalobos,Ingles,Valery,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Jonathan,Arroyo,,,Johana Aleman Delgado,"84,277,147",,,Bajo Los Anonos a la par del Rio,"10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Sebastian,Bejarano,,,Viviana Bejarano,"70,881,228",,"61,346,340","300 metros de la fundacion, frente al taller loria.","10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Jeylin,Artemirano,,,,,,,,"10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Jesser,Prado,Chavez,,Neilyn Prado Chaves,"60,660,102",,,"de credimuebles 100 mts este, 100 mts sur, subiendo las gradas a mano derecha","10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Kevin,Sabayos,,,Anabela Miranda,"89,855,293",,,"Barrio Calle Los Mangos, al final de la calle, izquierda, color blanco","10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Alberth,Abarca,,,Ana Orozco Porras,"86,164,833",,,"Carretera vieja a Escazu 350 m sur, frente iglesia catolica, casa color fusia","10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Antony,Guzman,,"72303504",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Kiara,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"San Jose, Bajo los Anonos","10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Valeria,Villalobos,Ingles,Santiago,Ceballos,,,Eliana Rodriguez,"85,581,439",,,,"10:30 a 11:30 - S - Ingles - Sexto - Valeria  Villalobos",37,61
+Daniel,Granados,Ingles,Erick,Zamora,Reyes,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Daniel,Granados,Ingles,Elieth,Oporta,Zamora,,Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Daniel,Granados,Ingles,Pamela,Umana,,,Andrea Torres,"85,634,468",,,,"6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Daniel,Granados,Ingles,Jerson,Gonzalez,,,Edith Umana,"84,412,777",,"61,384,981",,"6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Daniel,Granados,Ingles,Jefferson,Obando,,,Maydalin Rios,"87,528,935",,,Del antiguo cencinai 250 metro sur oeste.,"6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Daniel,Granados,Ingles,Stephanie,Diaz,,"72559596",Blanca Nieves Diaz Gudiel,,,"72,330,738",,"6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Daniel,Granados,Ingles,Naydelin,Rueda,,,Elieth Reyes Castillo,"84,524,769",,,,"6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Daniel,Granados,Ingles,Betania,Rios,,"72580142",Jessica Rios,"72,580,142",,,,"6 a 7 - T - Ingles - Septimo - Daniel  Granados",65,62
+Mariela,Ching,Ingles - Octavo y Noveno,Caleb,Mora,,"89377058",Olman Mora,"61,354,590",,,"De la Iglesia Judia 200 m sur 200 m suroeste casa mano izquierda, porton gris.","6 a 7 - H - Ingles - Octavo y Noveno - Mariela  Ching",52,63
+Mariela,Ching,Ingles - Octavo y Noveno,Lener,Perez,,,Andrea Torres,"85,634,468",,,,"6 a 7 - H - Ingles - Octavo y Noveno - Mariela  Ching",52,63
+Mariela,Ching,Ingles - Octavo y Noveno,Yasser,Perez,Prado,,Neilyn Prado Chaves,"60,660,102",,,de credimuebles 100 este y 100 sur. Casa a mano derecha subiendo las gradas,"6 a 7 - H - Ingles - Octavo y Noveno - Mariela  Ching",52,63
+Mariela,Ching,Ingles - Octavo y Noveno,Brandon,Perez,,,Adriana Perez,"88,086,531",,,,"6 a 7 - H - Ingles - Octavo y Noveno - Mariela  Ching",52,63
+Mariela,Ching,Ingles - Octavo y Noveno,Maria,Sequeira,Sobalvarro,,Luisa Sobalvarro,"62,650,612",,,,"6 a 7 - H - Ingles - Octavo y Noveno - Mariela  Ching",52,63
+Jose Roberto,Venegas,Ingles,Anderson,Quesada,Calvo,"60198919",Miriam Calvo Porras,"60,803,495",,,De los andamios Loria 200 mts. Ultimo porton negro.,"6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Carla,Ovares,,"88602820",,,,,"Detras de la iglesia catolica de Bajo de Los Anonos, casa color papaya","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Graciela,Elizondo,,,,,,,"Credimuebles 175 mts este, 25 mts antes de llegar al puente.","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Vanessa del Carmen,Potoy,,"70728285",,,,,"Calle Los Mango, 150m sur pulperia Mitalia, casa roja mano derecha","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Eliuth,Mendieta,Reyes,"61384981",,,,,"Del deposito santa baraba, 100 mts este, 100 mts sur","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Imna,Mondoy,,"61911116",,,,,,"6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Neilyn,Prado,Prado,"60660102",,,,,"De credimuebles 100 este, 100 sur, subiendo las gradas a la derecha","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Hellen,Umana,Prado,"84340472",,,,,"de credimuebles 100 sur, 100 este, subiendo las escaleres a mano derecha","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Angela,Prado,Chavez,"84756258",,,,,"de credimuebles 100 sur, 100 este, subiendo las escaleres a mano derecha","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Migdalia,Dinarte,,"86699847",,,,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Amparo,Mendoza,Delgadillo,"72507688",,,,,De credimuebles 150 este casa color marron,"6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Jose,Marin,Hernandez,"70962178",,,,,"del puente de los anonos 50 mts este,","6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Jose Roberto,Venegas,Ingles,Naomi,Araya,,,Flor De Liz Porras Mesa,"71,504,873",,"71,173,245",De la Embajada de Brasil 350 sur oeste,"6 a 7 - M - Ingles Adultos - Jose Roberto  Venegas",14,64
+Juliana,Pacheco,Ingles Privado,Karen,Perez,,,Maria Estrada,"86,625,513",,,,"3 a 4 - H - Ingles Privado - Juliana  Pacheco",23,65
+Juliana,Pacheco,Ingles Privado,Maria,Estrada,,"86625513",,,,,,"3 a 4 - H - Ingles Privado - Juliana  Pacheco",23,65
+Luana,Nieto,Mate,Leidy,Mendez,,,,,,,"Bajo los Anonos, la rotonda.","9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Dilan,Vanegas,Elizondo,"70942083",Cristina Elizondo Medina,"87,257,705",,,"De la embajada de Brazil 75 mts noreste, detras de la iglesia catolica.","9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Melanie,Mendez,,,Karina Diaz Flores,"60,954,355",,,"Bajo Los Anonos, de la antigua Ferreteria Santa Barbara 100 S y 100 este","9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Melissa,Gutierrez,,,Jaqueline Perez,"87,388,998",,"88,086,531",,"9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Francisco,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Fernanda,Montes,,,Blanca Montes,"70,459,623",,,,"9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Christopher,Aburto,,,Vera Aburto Mora,"72,678,205",,,,"9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Ian,Guevara,Yesca,"71164491",Raquel Guerrero Urbina,,Anielka Yeska Guerrero,"72,494,346","Calle Los Mangos. De las bodegas de Santa barbara, 75 sur. Casa gradas de techo a mano derecha color verde","9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Andrew,Zuniga,Morales,,Tatiana Morales,"87,411,149",,,,"9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Amberly,Rios,,,Jessica Rios,"72,580,142",,,,"9:30 a 10:30 - S -  Mate - Kinder - Luana  Nieto",58,66
+Luana,Nieto,Mate,Keiry,Madrigal,,,Joseline Viales Ovares,"87,483,650",,,"Detras de la Iglesia Catolica, casa color papaya","9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Jhonefe,Lopez,,,Karina Osorno,"61,542,163",,,,"9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Dayana,Alvarez,,,Edith Umana,"64,301,691",,"61,384,981",,"9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Tiffany,Obando,,,Maydalin Rios,"87,528,935",,,,"9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Natalie,Vallecillos,,,Marisol Murillo,"85,438,851",,,"Del antiguo CEN 200 m sur 75 m este, casa color gris, mano izquierda","9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Ashley,Murillo,,,Francys Yahoska Rodriguez,"72,415,980",,,"Del antiguio CEN CINAI 300 sur, 75 oeste","9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Natalia,Ruiz,,,Blanca Montes,"70,459,623",,,,"9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Eber,Canales,Aguilera,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Luana,Nieto,Mate,Marvin,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"9:30 a 10:30 - S - Mate - Primero - Luana  Nieto",58,67
+Felipe,Rodriguez,Mate,Neihtan,Mora,Garcia,"71845592",Eliecer Leandro Rosales,"71,845,592",,,Del antiguo LH 25 mts. Casa blanca de 2 pisos,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Tabata,Mora,Cedeno,,Argerie Cedeno,"83,459,657",,,,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Breychel,Perez,Sanchez,,Teresa Vasquez,"60,793,551",,,De credimuebles 150 este casa color marron,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Briana,Solis,,,Roxana Martinez,"87,196,880",,,"300 m sur del antiguo Deposito Bello Horizonte, calle Los Mangos, ultima pulperia color blanco","5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Ronny,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Franciny,Flores,Gonzales,,Mercedes Gonzales,"87,019,372",Henry Flores,"89,786,805",,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Olga,Sequeira,,,Hazel Sequeira Garci­a,"63,471,154",,,,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Bryan,Lopez,,,,,,,"Calle los Mangos, Bajo los Anonos.","5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Isaac,Acevedo,,,Maria Fernanda Castillo,"62,587,466",,,,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Tamara,Elizondo,,,Carolina Mairena Avalos,"61,071,258",,,,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Kimberly,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate,Owen,Rodriguez,,,Jennifer Mena Jimenez,"70,567,210",,,,"5 a 6 - W - Mate - Segundo - Felipe  Rodriguez",43,68
+Felipe,Rodriguez,Mate - Tercero Grupo A,Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Isabel,Rodriguez,,,Teresa Garcia,"60,793,551",,,del antiguo CEN CINAI 200 mts sur,"4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Anthony,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Lisclay,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Harinton,Yesca,,,Raquel Guerrero Urbina,"71,022,475",,,,"4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Gari,Acevedo,,,Mari­a Fernanda Castillo,"62,587,466",,,,"4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Neithan,Campos,Sanchez,"85938310",Lilian Sanchez Bemudez,"85,938,310",,,,"4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+Felipe,Rodriguez,Mate - Tercero Grupo A,Gabriela,Rios,,,Jessica Rios,"72,580,142",,,,"4 a 5 - T - Mate - Tercero Grupo A - Felipe  Rodriguez",43,69
+David,Zumbado,Mate - Tercero Grupo B,Kristel,Vanegas,Zamora,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","6 a 7 - H - Mate - Tercero Grupo B - David  Zumbado",57,70
+David,Zumbado,Mate - Tercero Grupo B,Deikel,Davila,Angulo,,Lesly Angulo,"63,785,852",,"86,569,261",,"6 a 7 - H - Mate - Tercero Grupo B - David  Zumbado",57,70
+David,Zumbado,Mate - Tercero Grupo B,Wendy,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"6 a 7 - H - Mate - Tercero Grupo B - David  Zumbado",57,70
+David,Zumbado,Mate - Tercero Grupo B,Virginia,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"6 a 7 - H - Mate - Tercero Grupo B - David  Zumbado",57,70
+Anai,Arroyo,Mate - Cuarto Grupo A,Aston,Porras,,,Fanny Rebeca Porras,"83,581,174",,,,"11:30 a 12:30 - S - Mate - Cuarto Grupo A - Anai  Arroyo",30,71
+Anai,Arroyo,Mate - Cuarto Grupo A,Katherina,Berrios,,,Julia Andrade Nativo,"87,562,429",,,De la casa del mueble 100 este y 200 mts sur,"11:30 a 12:30 - S - Mate - Cuarto Grupo A - Anai  Arroyo",30,71
+Anai,Arroyo,Mate - Cuarto Grupo A,Katy,Reyes,Urbina,,Marisol Murillo Rodriguez,"85,438,851",,,"Calle la quebrada, casa gris.","11:30 a 12:30 - S - Mate - Cuarto Grupo A - Anai  Arroyo",30,71
+Anai,Arroyo,Mate - Cuarto Grupo A,Yareydi,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"san jose, bajo los anonos","11:30 a 12:30 - S - Mate - Cuarto Grupo A - Anai  Arroyo",30,71
+Anai,Arroyo,Mate - Cuarto Grupo A,Evony,Jarquin,,,Aura Jarqui­n Rodri­guez,"71,755,883",,"71,755,877","Por el puente de los anonos, 150 sur","11:30 a 12:30 - S - Mate - Cuarto Grupo A - Anai  Arroyo",30,71
+Anai,Arroyo,Mate - Cuarto Grupo A,Juliana,Perez,,,Dulce Diaz,"87,343,156",,,,"11:30 a 12:30 - S - Mate - Cuarto Grupo A - Anai  Arroyo",30,71
+Anai,Arroyo,Mate - Cuarto Grupo A,Aaron,Duarte,Gonzalez,,Grisselda Daniela Gonzalez MIranda,"62,940,777",,,,"11:30 a 12:30 - S - Mate - Cuarto Grupo A - Anai  Arroyo",30,71
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Juliana,Perez,,,Dulce Diaz,"87,343,156",,,,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Isabella,Baldizon,,"72122132",Maria Isabel Narvaez,"70,548,245",,,"De la embajada de Brasil 200 mts sur y 25 este de los antiguos telefonos publicos, casa porton negro.","6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Dayra,Lopez,,,Juanita Perez,"61,911,116",,,,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Snayder,Lopez,,,Juanita Perez,"61,911,116",,,,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Estrella,Lemuz,Mendoza,,Amparo Mendoza Degadillo,"72,507,688",,,De credimuebles 150 este casa color marron,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Anderson,Oconitrillo,,,Susan Mari­n,"72,969,963",Rocio Fernandez,"86,237,346","Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 250 este","6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Jefferson,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Emily,Tinoco,Ortiz,,Ana Celia Tinoco,"72,594,204",,,De la antigua embajada de brazil 300 mts,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Jimena,Calvo,,,Mariana Morales,"85,544,892",,"22,912,252",,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Juan Felipe,Rodriguez,Mate - Cuarto Grupo B,Andres,Mora,Arroyo,,Lesly Angulo Mercedes,"63,785,852",,"84,852,627",,"6 a 7 - H - Mate - Cuarto Grupo B - Juan Felipe  Rodriguez",72,72
+Felipe,Rodriguez,Mate,Jason,Vanegas,,,Cristina Elizondo,"87,257,705",,,"Bajo Los Anonos, del puento pequeno 50 este a la par de Andamios Walter","4 a 5 - W - Mate - Quinto - Felipe  Rodriguez",43,73
+Felipe,Rodriguez,Mate,Maria,Gonzalez,,,Edith Umana,"64,301,691",,"61,384,989",,"4 a 5 - W - Mate - Quinto - Felipe  Rodriguez",43,73
+Felipe,Rodriguez,Mate,Darian,Miranda,,,Doris Martinez,"89,454,470",,,"Bellotas, Alajuelita, San Jose","4 a 5 - W - Mate - Quinto - Felipe  Rodriguez",43,73
+Felipe,Rodriguez,Mate,Angie,Espinoza,,,Anita de los Angeles Espinoza Vanegas,"61,856,606",,,,"4 a 5 - W - Mate - Quinto - Felipe  Rodriguez",43,73
+Felipe,Rodriguez,Mate,Juan,Castellon,,,Remigia Obando,,"62408994","84,701,336",,"4 a 5 - W - Mate - Quinto - Felipe  Rodriguez",43,73
+Felipe,Rodriguez,Mate,Carlos,Cruz,,,Ana Rosa Laguna Aguirre,"89,721,765",,,,"4 a 5 - W - Mate - Quinto - Felipe  Rodriguez",43,73
+Felipe,Rodriguez,Mate,Valery,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Sebastian,Bejarano,,,Viviana Bejarano,"70,881,228",,"61,346,340","300 metros de la fundacion, frente al taller loria.","5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Jesser,Prado,Chavez,,Neilyn Prado Chaves,"60,660,102",,,"de credimuebles 100 mts este, 100 mts sur, subiendo las gradas a mano derecha","5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Angelina,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Alberth,Abarca,,,Ana Orozco Porras,"86,164,833",,,"Carretera vieja a Escazu 350 m sur, frente iglesia catolica, casa color fusia","5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Antony,Guzman,,"72303504",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Kiara,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"San Jose, Bajo los Anonos","5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Stephanie,Diaz,,"72559596",Blanca Nieves Diaz Gudiel,,,"72,330,738",,"5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Kendall,Esquivel,Quiros,,Andrea Quiros,"86,704,701",,"63,835,236",,"5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Jeylin,Artemirano,,,,,,,,"5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Felipe,Rodriguez,Mate,Roiner,Araya,,"72383565",Flor de Liz Porras,,,,,"5 a 6 - T - Mate - Sexto - Felipe  Rodriguez",43,74
+Andres,Alfaro,Mate,Alison,Sanchez,Cedeno,,Argerie Cedeno,"83,459,657",,,,"9:30 a 10:30 - S - Mate - Septimo - Andres  Alfaro",32,75
+Andres,Alfaro,Mate,Daniela,Rayo,,,Imna Mondoy,"61,911,116",,,,"9:30 a 10:30 - S - Mate - Septimo - Andres  Alfaro",32,75
+Andres,Alfaro,Mate,Jefferson,Obando,,,Maydalin Rios,"87,528,935",,,Del antiguo cencinai 250 metro sur oeste.,"9:30 a 10:30 - S - Mate - Septimo - Andres  Alfaro",32,75
+Andres,Alfaro,Mate,Ashley,Guzman,,"70050687",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"9:30 a 10:30 - S - Mate - Septimo - Andres  Alfaro",32,75
+Andres,Alfaro,Mate,Charlie,Jarquin,Jarquin,,Aura Jarquin Rodriguez,"71,755,877",,,,"9:30 a 10:30 - S - Mate - Septimo - Andres  Alfaro",32,75
+Andres,Alfaro,Mate,Naydelin,Rueda,,,Elieth Reyes Castillo,"84,524,769",,,,"9:30 a 10:30 - S - Mate - Septimo - Andres  Alfaro",32,75
+Alejandro,Masis,Mate,Yasser,Perez,Prado,,Neilyn Prado Chaves,"60,660,102",,,de credimuebles 100 este y 100 sur. Casa a mano derecha subiendo las gradas,"10:30 a 11:30 - S - Mate - Octavo - Alejandro  Masis",29,76
+Alejandro,Masis,Mate,Brandon,Perez,,,Adriana Perez,"88,086,531",,,,"10:30 a 11:30 - S - Mate - Octavo - Alejandro  Masis",29,76
+Alejandro,Masis,Mate,Justin,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",credi muebles 200 mts sur doblando a la derecha,"10:30 a 11:30 - S - Mate - Octavo - Alejandro  Masis",29,76
+Alejandro,Masis,Mate,Maria,Sequeira,Sobalvarro,,Luisa Sobalvarro,"62,650,612",,,,"10:30 a 11:30 - S - Mate - Octavo - Alejandro  Masis",29,76
+Alejandro,Masis,Mate,Denilson,Medina,,,Gina Buzo,"85,600,384",,,,"10:30 a 11:30 - S - Mate - Octavo - Alejandro  Masis",29,76
+Adriana,Avendano,Mate,Caleb,Mora,,"89377058",Olman Mora,"61,354,590",,,"De la Iglesia Judia 200 m sur 200 m suroeste casa mano izquierda, porton gris.","11:30 a 12:30 - S - Mate - Noveno - Adriana  Avendano",27,77
+Adriana,Avendano,Mate,Sandro,Perez,,,Jaqueline Diaz,"71,512,030",,,,"11:30 a 12:30 - S - Mate - Noveno - Adriana  Avendano",27,77
+Adriana,Avendano,Mate,Lener,Perez,,,Andrea Torres,"85,634,468",,,,"11:30 a 12:30 - S - Mate - Noveno - Adriana  Avendano",27,77
+Adriana,Avendano,Mate,Jeremy,Anchia,,"71045932",Xinia Marin,"84,456,275",,,de credi mueble 100 este y 150 sur,"11:30 a 12:30 - S - Mate - Noveno - Adriana  Avendano",27,77
+Adriana,Avendano,Mate,Nicole,Leon,Quiros,"85516765",Andrea Quiros,"86,704,701",,"63,835,236",,"11:30 a 12:30 - S - Mate - Noveno - Adriana  Avendano",27,77
+Adriana,Avendano,Mate,Karina,Miranda,,,Doris Martinez,"89,454,470",,,"Alajuelita, San Jose","10:30 a 11:30 - S - Mate - Decimo - Adriana  Avendano",27,78
+Adriana,Avendano,Mate,Brittany,Solis,,,Roxana Martinez,"87,196,880",,,"San Rafeal Escazu, Antiguo deposito Bello Horizonte 300 m sur calle Los Mangos, porton blanco ultima pulperia","10:30 a 11:30 - S - Mate - Decimo - Adriana  Avendano",27,78
+Adriana,Avendano,Mate,Gabriela,Castellon,,,Remigia Obando,"62,408,994",,"84,701,336",,"10:30 a 11:30 - S - Mate - Decimo - Adriana  Avendano",27,78
+Adriana,Avendano,Mate,Naomi,Araya,,,Flor De Liz Porras Mesa,"71,504,873",,"71,173,245",De la Embajada de Brasil 350 sur oeste,"10:30 a 11:30 - S - Mate - Decimo - Adriana  Avendano",27,78
+Andrea,Echeverria,Tutorias,Yomaira,Peinado Porras,,,Fanny Rebeca Porras,"83,581,174",,,De la embajada de brasil 200msur.,"3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Andrea,Echeverria,Tutorias,Jhonefe,Lopez,,,Karina Osorno,"61,542,163",,,,"3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Andrea,Echeverria,Tutorias,Darwin,Centeno,Zamora,,Yaelki del Carmen,"70,059,885",,,"en el bajo, casa de 2 pisos celeste","3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Andrea,Echeverria,Tutorias,Dayana,Alvarez,,,Edith Umana,"64,301,691",,"61,384,981",,"3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Andrea,Echeverria,Tutorias,Monserrat,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Andrea,Echeverria,Tutorias,Jefry,Perez,Narbaez,,Belkin Narvaez,"71,590,532",,,"de la antigua ferreteria santa barbara 100 mts norte, 300 mts sur, los anonos calle los mangos","3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Andrea,Echeverria,Tutorias,Eber,Canales,Aguilera,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Andrea,Echeverria,Tutorias,Marvin,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"3 a 4 - H - Tutorias - Primero - Andrea  Echeverria",31,79
+Laura,Rodriguez,Tutorias,Tabata,Mora,Cedeno,,Argerie Cedeno,"83,459,657",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Pamela,Umana,,,Andrea Torres,"85,634,468",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Ronny,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Franciny,Flores,Gonzales,,Mercedes Gonzales,"87,019,372",Henry Flores,"89,786,805",,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Olga,Sequeira,,,Hazel Sequeira Garci­a,"63,471,154",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Isaac,Acevedo,,,Maria Fernanda Castillo,"62,587,466",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Dayana,Jarquin,,,Elba Jarquin,"84,168,483",,,"200 s, calle deposito los mangos","3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Bryan,Lopez,,,,,,,"Calle los Mangos, Bajo los Anonos.","3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Tamara,Elizondo,,,Carolina Mairena Avalos,"61,071,258",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Kimberly,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Emily,Palacios,,,Rosaura Centeno Montes,"63,123,525",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Owen,Rodriguez,,,Jennifer Mena Jimenez,"70,567,210",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Laura,Rodriguez,Tutorias,Aimar,Rios,,,Jessica Rios,"72,580,142",,,,"3 a 4 - T - Tutorias - Segundo - Laura  Rodriguez",73,80
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Lissi,Ortega,,,Johanna Quesada,"844,422,737",,,"De andamios Elias 75 mts noroeste, ultima casa","4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Isabel,Rodriguez,,,Teresa Garcia,"60,793,551",,,del antiguo CEN CINAI 200 mts sur,"4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Deikel,Davila,Angulo,,Lesly Angulo,"63,785,852",,"86,569,261",,"4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Harinton,Yesca,,,Raquel Guerrero Urbina,"71,022,475",,,,"4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Gari,Acevedo,,,Mari­a Fernanda Castillo,"62,587,466",,,,"4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Bayoleth,Lopez,,,Sara Lopez,"28,765,367",Sandra Jimenez,"67,898,765",,"4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Neithan,Campos,Sanchez,"85938310",Lilian Sanchez Bemudez,"85,938,310",,,,"4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Ana Yancy,Carmona,Tutorias - Tercero Grupo A,Gabriela,Rios,,,Jessica Rios,"72,580,142",,,,"4 a 5 - M - Tutorias - Tercero Grupo A - Ana Yancy  Carmona",11,81
+Cristina,Zumbado,Tutorias - Tercero Grupo B,Lissi,Ortega,,,Johanna Quesada,"844,422,737",,,"De andamios Elias 75 mts noroeste, ultima casa","4 a 5 - W - Tutorias - Tercero Grupo B - Cristina  Zumbado",48,82
+Cristina,Zumbado,Tutorias - Tercero Grupo B,Greivin,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","4 a 5 - W - Tutorias - Tercero Grupo B - Cristina  Zumbado",48,82
+Cristina,Zumbado,Tutorias - Tercero Grupo B,Kristel,Vanegas,Zamora,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","4 a 5 - W - Tutorias - Tercero Grupo B - Cristina  Zumbado",48,82
+Cristina,Zumbado,Tutorias - Tercero Grupo B,Kerly,Romero,,,Rosario Zarate,"86,732,923",,,"Calle Los Mangos, Bajo Los Anonos, casa colo blanca, dos plantas","4 a 5 - W - Tutorias - Tercero Grupo B - Cristina  Zumbado",48,82
+Cristina,Zumbado,Tutorias - Tercero Grupo B,Justin Matias,Anchia,,,Cindy Murillo,"83,833,942",,,de credi mueble 100 este y 150 sur,"4 a 5 - W - Tutorias - Tercero Grupo B - Cristina  Zumbado",48,82
+Cristina,Zumbado,Tutorias - Tercero Grupo B,Allison,Arguedas,,,Vera Nidia Aburto Mora,"72,678,205",,"70,313,623",,"4 a 5 - W - Tutorias - Tercero Grupo B - Cristina  Zumbado",48,82
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Josue,Chaves,,,Ana Garci­a Salazar,"72,456,100",,,Bajo Los Anonos al frente de la Iglesia Catolica,"4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Aston,Porras,,,Fanny Rebeca Porras,"83,581,174",,,,"4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Katherina,Berrios,,,Julia Andrade Nativo,"87,562,429",,,De la casa del mueble 100 este y 200 mts sur,"4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Vivian,Murillo,,,Francys Yahoska R,"72,415,980",,,del antiguo CEN CINAI 300 sur y 75 oeste.,"4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Anderson,Oconitrillo,,,Susan Mari­n,"72,969,963",Rocio Fernandez,"86,237,346","Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 250 este","4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Jefferson,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",,"4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Emily,Tinoco,Ortiz,,Ana Celia Tinoco,"72,594,204",,,De la antigua embajada de brazil 300 mts,"4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Katy,Reyes,Urbina,,Marisol Murillo Rodriguez,"85,438,851",,,"Calle la quebrada, casa gris.","4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Yareydi,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"san jose, bajo los anonos","4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Martin,Calderon,Vegas,"61791979",Ana Margarita Vegas,,,,"Calle Los Mangos, Anonos, San Jose. Frente la Pulperia Dona Maria","4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Ramon,Calderon,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raul,Bustamante,Tutorias - Cuarto Grupo A,Evony,Jarquin,,,Aura Jarqui­n Rodri­guez,"71,755,883",,"71,755,877","Por el puente de los anonos, 150 sur","4 a 5 - H - Tutoria - Cuarto Grupo A - Raul  Bustamante",39,83
+Raquel,Torres,Tutorias - Cuarto Grupo B,Isabella,Baldizon,,"72122132",Maria Isabel Narvaez,"70,548,245",,,"De la embajada de Brasil 200 mts sur y 25 este de los antiguos telefonos publicos, casa porton negro.","6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Raquel,Torres,Tutorias - Cuarto Grupo B,Dayra,Lopez,,,Juanita Perez,"61,911,116",,,,"6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Raquel,Torres,Tutorias - Cuarto Grupo B,Snayder,Lopez,,,Juanita Perez,"61,911,116",,,,"6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Raquel,Torres,Tutorias - Cuarto Grupo B,Estrella,Lemuz,Mendoza,,Amparo Mendoza Degadillo,"72,507,688",,,De credimuebles 150 este casa color marron,"6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Raquel,Torres,Tutorias - Cuarto Grupo B,Jimena,Calvo,,,Mariana Morales,"85,544,892",,"22,912,252",,"6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Raquel,Torres,Tutorias - Cuarto Grupo B,Juliana,Perez,,,Dulce Diaz,"87,343,156",,,,"6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Raquel,Torres,Tutorias - Cuarto Grupo B,Aaron,Duarte,Gonzalez,,Grisselda Daniela Gonzalez MIranda,"62,940,777",,,,"6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Raquel,Torres,Tutorias - Cuarto Grupo B,Andres,Mora,Arroyo,,Lesly Angulo Mercedes,"63,785,852",,"84,852,627",,"6 a 7 - T - Tutorias - Cuarto Grupo B - Raquel  Torres",17,84
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Yeron,Leandro,,,Marisol Rosales / Alfredo Leandro Garro,"72,395,061",,,"De la embajada de Brasil 500 m oeste, de la iglesia del Divino NiÃ±o 150 m sur, color verde, mano derecha","10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Maria,Gonzalez,,,Edith Umana,"64,301,691",,"61,384,989",,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Alexander,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Darian,Miranda,,,Doris Martinez,"89,454,470",,,"Bellotas, Alajuelita, San Jose","10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Angie,Espinoza,,,Anita de los Angeles Espinoza Vanegas,"61,856,606",,,,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Raquel,Montes,,,Blanca Montes,"70,459,623",,,,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Keychel,Scott,Gomez,,Maria Gomez Quiroz,"72,095,867",,,Detras del antiguo kinder,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Jairo,Navarro,Navarro,,Marta Navarro,"70,491,766",,,"del mercado del mueble 150 este, 300 sur, 100 este, casa color papaya","10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Juan,Rugama,,,Luisa Sovalbarro,"85,800,727",,,,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Juan,Castellon,,,Remigia Obando,,"62408994","84,701,336",,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Manuel,Soto,,"84633578",Jaqueline Arrieta,,,,,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Laura,Sanchez,Tutorias - Quinto y Sexto Grupo A,Roiner,Araya,,"72383565",Flor de Liz Porras,,,,,"10:30 a 11:30 - S - Tutorias - Quinto y Sexto Grupo A - Laura  Sanchez",51,85
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Valery,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Jonathan,Arroyo,,,Johana Aleman Delgado,"84,277,147",,,Bajo Los Anonos a la par del Rio,"4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Sebastian,Bejarano,,,Viviana Bejarano,"70,881,228",,"61,346,340","300 metros de la fundacion, frente al taller loria.","4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Jesser,Prado,Chavez,,Neilyn Prado Chaves,"60,660,102",,,"de credimuebles 100 mts este, 100 mts sur, subiendo las gradas a mano derecha","4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Keylin,Perez,,,Adriana Perez,"88,086,531",,,,"4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Angelina,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Antony,Guzman,,"72303504",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Kiara,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"San Jose, Bajo los Anonos","4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Stephanie,Diaz,,"72559596",Blanca Nieves Diaz Gudiel,,,"72,330,738",,"4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Isabel,Vranken,Tutorias - Quinto y Sexto Grupo B,Carlos,Cruz,,,Ana Rosa Laguna Aguirre,"89,721,765",,,,"4 a 5 - F - Tutorias - Quinto y Sexto Grupo B - Isabel  Vranken",76,86
+Guillermo,Granados,Tutorias - Septimo Grupo B,Elieth,Oporta,Zamora,,Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","6 a 7 - H - Tutorias - Septimo Grupo B - Guillermo  Granados",75,87
+Guillermo,Granados,Tutorias - Septimo Grupo B,Jerson,Gonzalez,,,Edith Umana,"84,412,777",,"61,384,981",,"6 a 7 - H - Tutorias - Septimo Grupo B - Guillermo  Granados",75,87
+Guillermo,Granados,Tutorias - Septimo Grupo B,Jefferson,Obando,,,Maydalin Rios,"87,528,935",,,Del antiguo cencinai 250 metro sur oeste.,"6 a 7 - H - Tutorias - Septimo Grupo B - Guillermo  Granados",75,87
+Guillermo,Granados,Tutorias - Septimo Grupo B,Ashley,Guzman,,"70050687",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"6 a 7 - H - Tutorias - Septimo Grupo B - Guillermo  Granados",75,87
+Guillermo,Granados,Tutorias - Septimo Grupo B,Charlie,Jarquin,Jarquin,,Aura Jarquin Rodriguez,"71,755,877",,,,"6 a 7 - H - Tutorias - Septimo Grupo B - Guillermo  Granados",75,87
+Guillermo,Granados,Tutorias - Septimo Grupo B,Naydelin,Rueda,,,Elieth Reyes Castillo,"84,524,769",,,,"6 a 7 - H - Tutorias - Septimo Grupo B - Guillermo  Granados",75,87
+Esteban,Artavia,Tutorias - Octavo Grupo A,Roswell,Chaves,,"71017292",Ana Yancy Garcia Salazar,"72,456,100",,,"De la antigua Embajada de Brasi 750 mts sur-oeste, frente a la iglesia evangelical","9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Derek,Araya,,"86587345",Raquel Ramirez,"87,334,365",,,Bajo los Anonos.,"9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Genesis,Chaves,,,Ana Yancy Garcia Salazar,"72,456,100",,"71,373,301",,"9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Antony,Perez,,"60924444",Antonia Diaz,"70,289,467",,,,"9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Andres,Castro,,,Dulce Di­az,"87,343,156",,,De la embajada de brasil 500 mts sur detras de la iglesia catolica.,"9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Nicole,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Gabriela,Vallecillos,,"61837846",Marisol Murillo,"85,438,851",,,"Los Anonos del antiguio CEN 200 m sur y 25 m este, casa color gris, 1 piso, mano izquierda","9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Maria,Sequeira,Sobalvarro,,Luisa Sobalvarro,"62,650,612",,,,"9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Esteban,Artavia,Tutorias - Octavo Grupo A,Denilson,Medina,,,Gina Buzo,"85,600,384",,,,"9:30 a 10:30 - S - Tutorias - Octavo Grupo A - Esteban  Artavia",6,89
+Valeria,Mora,Tutorias - Octavo Grupo B,Yasser,Perez,Prado,,Neilyn Prado Chaves,"60,660,102",,,de credimuebles 100 este y 100 sur. Casa a mano derecha subiendo las gradas,"6 a 7 - T - Tutorias - Octavo Grupo B - Valeria  Mora",36,90
+Valeria,Mora,Tutorias - Octavo Grupo B,Brandon,Perez,,,Adriana Perez,"88,086,531",,,,"6 a 7 - T - Tutorias - Octavo Grupo B - Valeria  Mora",36,90
+Valeria,Mora,Tutorias - Octavo Grupo B,Justin,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",credi muebles 200 mts sur doblando a la derecha,"6 a 7 - T - Tutorias - Octavo Grupo B - Valeria  Mora",36,90
+Ariana,Ramirez,Tutorias,Caleb,Mora,,"89377058",Olman Mora,"61,354,590",,,"De la Iglesia Judia 200 m sur 200 m suroeste casa mano izquierda, porton gris.","9:30 a 10:30 - S - Tutorias - Noveno - Ariana  Ramirez",78,91
+Ariana,Ramirez,Tutorias,Sandro,Perez,,,Jaqueline Diaz,"71,512,030",,,,"9:30 a 10:30 - S - Tutorias - Noveno - Ariana  Ramirez",78,91
+Ariana,Ramirez,Tutorias,Lener,Perez,,,Andrea Torres,"85,634,468",,,,"9:30 a 10:30 - S - Tutorias - Noveno - Ariana  Ramirez",78,91
+Ariana,Ramirez,Tutorias,Jeremy,Anchia,,"71045932",Xinia Marin,"84,456,275",,,de credi mueble 100 este y 150 sur,"9:30 a 10:30 - S - Tutorias - Noveno - Ariana  Ramirez",78,91
+Didier,Mendez,Tutorias,Anderson,Quesada,Calvo,"60198919",Miriam Calvo Porras,"60,803,495",,,De los andamios Loria 200 mts. Ultimo porton negro.,"9:30 a 10:30 - S - Tutorias - Decimo - Didier  Mendez",34,92
+Didier,Mendez,Tutorias,Karina,Miranda,,,Doris Martinez,"89,454,470",,,"Alajuelita, San Jose","9:30 a 10:30 - S - Tutorias - Decimo - Didier  Mendez",34,92
+Didier,Mendez,Tutorias,Brittany,Solis,,,Roxana Martinez,"87,196,880",,,"San Rafeal Escazu, Antiguo deposito Bello Horizonte 300 m sur calle Los Mangos, porton blanco ultima pulperia","9:30 a 10:30 - S - Tutorias - Decimo - Didier  Mendez",34,92
+Didier,Mendez,Tutorias,Gabriela,Castellon,,,Remigia Obando,"62,408,994",,"84,701,336",,"9:30 a 10:30 - S - Tutorias - Decimo - Didier  Mendez",34,92
+Rafael,Mejia,Robotica (8 a 14 años),Aston,Porras,,,Fanny Rebeca Porras,"83,581,174",,,,"5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Sebastian,Bejarano,,,Viviana Bejarano,"70,881,228",,"61,346,340","300 metros de la fundacion, frente al taller loria.","5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Freydder,Rocha,Cordero,,Freidy Rossana Cordero,"70,313,623",,,"En el bajo, casa de 2 plantas color celeste.","5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Jefferson,Obando,,,Maydalin Rios,"87,528,935",,,Del antiguo cencinai 250 metro sur oeste.,"5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Justin,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",credi muebles 200 mts sur doblando a la derecha,"5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Ronny,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Jefferson,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",,"5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Alberth,Abarca,,,Ana Orozco Porras,"86,164,833",,,"Carretera vieja a Escazu 350 m sur, frente iglesia catolica, casa color fusia","5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Angelina,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Justin Matias,Anchia,,,Cindy Murillo,"83,833,942",,,de credi mueble 100 este y 150 sur,"5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Jairo,Navarro,Navarro,,Marta Navarro,"70,491,766",,,"del mercado del mueble 150 este, 300 sur, 100 este, casa color papaya","5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Yareydi,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"san jose, bajo los anonos","5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Andres,Mora,Arroyo,,Lesly Angulo Mercedes,"63,785,852",,"84,852,627",,"5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Rafael,Mejia,Robotica (8 a 14 años),Neithan,Campos,Sanchez,"85938310",Lilian Sanchez Bemudez,"85,938,310",,,,"5 a 6 - H - Robotica (8 a 14 anos) - Rafael  Mejia",40,93
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Tiffany,Quesada,,,Alejandra Delgadillo,"85,744,204",,,,"5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Tabata,Mora,Cedeno,,Argerie Cedeno,"83,459,657",,,,"5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Lissi,Ortega,,,Johanna Quesada,"844,422,737",,,"De andamios Elias 75 mts noroeste, ultima casa","5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Wendy,Gutierrez,,,Dulce Diaz,"87,343,156",,,,"5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Alexander,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Anthony,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Lisclay,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Angelina,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Antony,Guzman,,"72303504",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Juan,Rugama,,,Luisa Sovalbarro,"85,800,727",,,,"5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Otto,Gatjens,Duolingo (7 a 12 años) Grupo  A,Yareydi,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"san jose, bajo los anonos","5 a 6 - M - Duolingo (7 a 12 anos) Grupo  A - Otto  Gatjens",9,94
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Yeron,Leandro,,,Marisol Rosales / Alfredo Leandro Garro,"72,395,061",,,"De la embajada de Brasil 500 m oeste, de la iglesia del Divino NiÃ±o 150 m sur, color verde, mano derecha","3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Paola,Perez,,,Dulce Diaz,"87,343,156",,,"De la Embaja de Brasil 500 mts sur y 200 oeste, detras de la iglesia","3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Alison,Sanchez,Cedeno,,Argerie Cedeno,"83,459,657",,,,"3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Keylin,Perez,,,Adriana Perez,"88,086,531",,,,"3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Isaac,Acevedo,,,Maria Fernanda Castillo,"62,587,466",,,,"3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Aaron,Duarte,Gonzalez,,Grisselda Daniela Gonzalez MIranda,"62,940,777",,,,"3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Carlos,Cruz,,,Ana Rosa Laguna Aguirre,"89,721,765",,,,"3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Tatiana,Brenes,Duolingo (7 a 12 años) Grupo  B,Test4,Apellido,,,,,,,,"3 a 4 - H - Duolingo (7 a 12 años) Grupo  B - Tatiana  Brenes",60,95
+Carlos,Mora,Computo Primero y Segundo Grupo A,Neihtan,Mora,Garcia,"71845592",Eliecer Leandro Rosales,"71,845,592",,,Del antiguo LH 25 mts. Casa blanca de 2 pisos,"9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Jefferson,Alvarez,,,Esther Alvarez,"86,093,981",,,"Calle Los Mangos, de la pulperia Mitalia 150 m sur, casa roja, mano derecha","9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Jonathan,Cermeno,,"70628285",Vanessa del Carmen Potoy,"70,728,285",,,"Calle Los Mangos, de la pulperia Mitalia 150 m sur, mano derecha, color rojo","9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Darwin,Centeno,Zamora,,Yaelki del Carmen,"70,059,885",,,"en el bajo, casa de 2 pisos celeste","9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Breychel,Perez,Sanchez,,Teresa Vasquez,"60,793,551",,,De credimuebles 150 este casa color marron,"9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Jefry,Perez,Narbaez,,Belkin Narvaez,"71,590,532",,,"de la antigua ferreteria santa barbara 100 mts norte, 300 mts sur, los anonos calle los mangos","9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Dayana,Jarquin,,,Elba Jarquin,"84,168,483",,,"200 s, calle deposito los mangos","9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Isaac,Acevedo,,,Maria Fernanda Castillo,"62,587,466",,,,"9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Tamara,Elizondo,,,Carolina Mairena Avalos,"61,071,258",,,,"9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Carlos,Mora,Computo Primero y Segundo Grupo A,Aimar,Rios,,,Jessica Rios,"72,580,142",,,,"9:30 a 10:30 - S - Computo Primero y Segundo Grupo A - Carlos  Mora",64,96
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Yomaira,Peinado Porras,,,Fanny Rebeca Porras,"83,581,174",,,De la embajada de brasil 200msur.,"4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Freydder,Rocha,Cordero,,Freidy Rossana Cordero,"70,313,623",,,"En el bajo, casa de 2 plantas color celeste.","4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Kerly,Romero,,,Rosario Zarate,"86,732,923",,,"Calle Los Mangos, Bajo Los Anonos, casa colo blanca, dos plantas","4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Tiffany,Obando,,,Maydalin Rios,"87,528,935",,,,"4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Natalie,Vallecillos,,,Marisol Murillo,"85,438,851",,,"Del antiguo CEN 200 m sur 75 m este, casa color gris, mano izquierda","4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Ashley,Murillo,,,Francys Yahoska Rodriguez,"72,415,980",,,"Del antiguio CEN CINAI 300 sur, 75 oeste","4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Monserrat,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Franciny,Flores,Gonzales,,Mercedes Gonzales,"87,019,372",Henry Flores,"89,786,805",,"4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Olga,Sequeira,,,Hazel Sequeira Garci­a,"63,471,154",,,,"4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Benjamin,Canales,Aguilar,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Isabel,Vranken,Computo Primero y Segundo Grupo B,Eber,Canales,Aguilera,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","4 a 5 - T - Computo Primero y Segundo Grupo B - Isabel  Vranken",76,97
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Greivin,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Isabel,Rodriguez,,,Teresa Garcia,"60,793,551",,,del antiguo CEN CINAI 200 mts sur,"10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Deikel,Davila,Angulo,,Lesly Angulo,"63,785,852",,"86,569,261",,"10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Anthony,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Lisclay,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Harinton,Yesca,,,Raquel Guerrero Urbina,"71,022,475",,,,"10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Justin Matias,Anchia,,,Cindy Murillo,"83,833,942",,,de credi mueble 100 este y 150 sur,"10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Allison,Arguedas,,,Vera Nidia Aburto Mora,"72,678,205",,"70,313,623",,"10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Yareydi,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"san jose, bajo los anonos","10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Jose,Valerin,Computo Tercero y Cuarto Grupo A,Bayoleth,Lopez,,,Sara Lopez,"28,765,367",Sandra Jimenez,"67,898,765",,"10:30 a 11:30 - S - Computo Tercero y Cuarto Grupo A - Jose  Valerin",42,98
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Isabella,Baldizon,,"72122132",Maria Isabel Narvaez,"70,548,245",,,"De la embajada de Brasil 200 mts sur y 25 este de los antiguos telefonos publicos, casa porton negro.","5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Jose,Lazarte,Reyes,,Rosa Ana Lazarte,"88,012,524",,,,"5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Estrella,Lemuz,Mendoza,,Amparo Mendoza Degadillo,"72,507,688",,,De credimuebles 150 este casa color marron,"5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Vivian,Murillo,,,Francys Yahoska R,"72,415,980",,,del antiguo CEN CINAI 300 sur y 75 oeste.,"5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Jefferson,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",,"5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Emily,Tinoco,Ortiz,,Ana Celia Tinoco,"72,594,204",,,De la antigua embajada de brazil 300 mts,"5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Martin,Calderon,Vegas,"61791979",Ana Margarita Vegas,,,,"Calle Los Mangos, Anonos, San Jose. Frente la Pulperia Dona Maria","5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Ramon,Calderon,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Gari,Acevedo,,,Mari­a Fernanda Castillo,"62,587,466",,,,"5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Luis,Aguilar,Computo Tercero y Cuarto Grupo B,Andres,Mora,Arroyo,,Lesly Angulo Mercedes,"63,785,852",,"84,852,627",,"5 a 6 - T - Computo Tercero y Cuarto Grupo B - Luis  Aguilar",15,99
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Jonathan,Arroyo,,,Johana Aleman Delgado,"84,277,147",,,Bajo Los Anonos a la par del Rio,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Maria,Gonzalez,,,Edith Umana,"64,301,691",,"61,384,989",,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Angie,Espinoza,,,Anita de los Angeles Espinoza Vanegas,"61,856,606",,,,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Raquel,Montes,,,Blanca Montes,"70,459,623",,,,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Alberth,Abarca,,,Ana Orozco Porras,"86,164,833",,,"Carretera vieja a Escazu 350 m sur, frente iglesia catolica, casa color fusia","6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Keychel,Scott,Gomez,,Maria Gomez Quiroz,"72,095,867",,,Detras del antiguo kinder,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Kiara,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"San Jose, Bajo los Anonos","6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Juan,Rugama,,,Luisa Sovalbarro,"85,800,727",,,,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Gabriel,Soto,Computo Quinto y Sexto Grupo A,Jeylin,Artemirano,,,,,,,,"6 a 7 - H - Computo Quinto y Sexto Grupo A - Gabriel  Soto",35,100
+Otto,Gatjens,Computo Quinto y Sexto Grupo B,Kendall,Esquivel,Quiros,,Andrea Quiros,"86,704,701",,"63,835,236",,"6 a 7 - M - Computo Quinto y Sexto Grupo B - Otto  Gatjens",9,101
+Otto,Gatjens,Computo Quinto y Sexto Grupo B,Jesser,Prado,Chavez,,Neilyn Prado Chaves,"60,660,102",,,"de credimuebles 100 mts este, 100 mts sur, subiendo las gradas a mano derecha","6 a 7 - M - Computo Quinto y Sexto Grupo B - Otto  Gatjens",9,101
+Otto,Gatjens,Computo Quinto y Sexto Grupo B,Jairo,Navarro,Navarro,,Marta Navarro,"70,491,766",,,"del mercado del mueble 150 este, 300 sur, 100 este, casa color papaya","6 a 7 - M - Computo Quinto y Sexto Grupo B - Otto  Gatjens",9,101
+Otto,Gatjens,Computo Quinto y Sexto Grupo B,Stephanie,Diaz,,"72559596",Blanca Nieves Diaz Gudiel,,,"72,330,738",,"6 a 7 - M - Computo Quinto y Sexto Grupo B - Otto  Gatjens",9,101
+Otto,Gatjens,Computo Quinto y Sexto Grupo B,Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"6 a 7 - M - Computo Quinto y Sexto Grupo B - Otto  Gatjens",9,101
+Otto,Gatjens,Computo Quinto y Sexto Grupo B,Roiner,Araya,,"72383565",Flor de Liz Porras,,,,,"6 a 7 - M - Computo Quinto y Sexto Grupo B - Otto  Gatjens",9,101
+Otto,Gatjens,Computo Quinto y Sexto Grupo B,Carlos,Cruz,,,Ana Rosa Laguna Aguirre,"89,721,765",,,,"6 a 7 - M - Computo Quinto y Sexto Grupo B - Otto  Gatjens",9,101
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Roswell,Chaves,,"71017292",Ana Yancy Garcia Salazar,"72,456,100",,,"De la antigua Embajada de Brasi 750 mts sur-oeste, frente a la iglesia evangelical","11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Anderson,Quesada,Calvo,"60198919",Miriam Calvo Porras,"60,803,495",,,De los andamios Loria 200 mts. Ultimo porton negro.,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Genesis,Chaves,,,Ana Yancy Garcia Salazar,"72,456,100",,"71,373,301",,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Karina,Diaz,,"60954355",,,,,,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,George,Ulloa,,"70548246",Maria Isabel Narvaez,"70,548,245",,,"De la embajada de Brasil 200 mts sur, 25 este frente a los antiguos telefonos publicos, casa negra escondida","11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Daniela,Rayo,,,Imna Mondoy,"61,911,116",,,,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Yasser,Perez,Prado,,Neilyn Prado Chaves,"60,660,102",,,de credimuebles 100 este y 100 sur. Casa a mano derecha subiendo las gradas,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Jefferson,Obando,,,Maydalin Rios,"87,528,935",,,Del antiguo cencinai 250 metro sur oeste.,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Karina,Miranda,,,Doris Martinez,"89,454,470",,,"Alajuelita, San Jose","11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Brittany,Solis,,,Roxana Martinez,"87,196,880",,,"San Rafeal Escazu, Antiguo deposito Bello Horizonte 300 m sur calle Los Mangos, porton blanco ultima pulperia","11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Aura,Jarquin,,"71757877",,,,,,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Maximo,Lau,Computo Jovenes y Adultos Grupo A,Betania,Rios,,"72580142",Jessica Rios,"72,580,142",,,,"11:30 a 12:30 - S - Computo Jovenes y Adultos Grupo A - Maximo  Lau",53,102
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Neilyn,Prado,Prado,"60660102",,,,,"De credimuebles 100 este, 100 sur, subiendo las gradas a la derecha","6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Hellen,Umana,Prado,"84340472",,,,,"de credimuebles 100 sur, 100 este, subiendo las escaleres a mano derecha","6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Angela,Prado,Chavez,"84756258",,,,,"de credimuebles 100 sur, 100 este, subiendo las escaleres a mano derecha","6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Amparo,Mendoza,Delgadillo,"72507688",,,,,De credimuebles 150 este casa color marron,"6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Jose,Marin,Hernandez,"70962178",,,,,"del puente de los anonos 50 mts este,","6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Rosa,Marin,,"61026944",Rosa Hernandez,"64,252,452",,,"San Jose, Bajo los Anonos","6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Miriam,Molinares,Manzanares,"62163345",,,,,Calle los mangos,"6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Cindy,Murillo,,"83833942",,,,,de credi mueble 100 este y 150 sur.,"6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Xinia,Marin,,"84456275",,,,,"de credimueble 100 este y 150 sur, primera entrada a bello horizonte","6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Maria,Sequeira,Sobalvarro,,Luisa Sobalvarro,"62,650,612",,,,"6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Alfredo,Diaz,Computo Jovenes y Adultos Grupo B,Ismelda,Blandon,,,,,,,Bajo los Anonos. Calle los Mangos.,"6 a 7 - T - Computo Jovenes y Adultos Grupo B - Alfredo  Diaz",20,103
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Keylor,Chaves,,,,,,,"De la antigua embajada Brasil 750 mts suroeste, frente a iglesia cristiana.","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Wendy,Gutierrez,,,Dulce Diaz,"87,343,156",,,,"3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Dilan,Vanegas,Elizondo,"70942083",Cristina Elizondo Medina,"87,257,705",,,"De la embajada de Brazil 75 mts noreste, detras de la iglesia catolica.","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Melanie,Mendez,,,Karina Diaz Flores,"60,954,355",,,"Bajo Los Anonos, de la antigua Ferreteria Santa Barbara 100 S y 100 este","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Yomaira,Peinado Porras,,,Fanny Rebeca Porras,"83,581,174",,,De la embajada de brasil 200msur.,"3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Jhonefe,Lopez,,,Karina Osorno,"61,542,163",,,,"3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Irvin,Rayo,,,Imna Mondoy,"61,911,116",,,,"3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Dayana,Alvarez,,,Edith Umana,"64,301,691",,"61,384,981",,"3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Melissa,Gutierrez,,,Jaqueline Perez,"87,388,998",,"88,086,531",,"3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Ashley,Murillo,,,Francys Yahoska Rodriguez,"72,415,980",,,"Del antiguio CEN CINAI 300 sur, 75 oeste","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Monserrat,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Francisco,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Benjamin,Canales,Aguilar,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Juliana,Pacheco,Cocina Kinder (4 a 7 años),Eber,Canales,Aguilera,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","3 a 4 - W - Cocina Kinder (4 a 7 anos) - Juliana  Pacheco",23,105
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Josue,Chaves,,,Ana Garci­a Salazar,"72,456,100",,,Bajo Los Anonos al frente de la Iglesia Catolica,"3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Greivin,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Isabella,Baldizon,,"72122132",Maria Isabel Narvaez,"70,548,245",,,"De la embajada de Brasil 200 mts sur y 25 este de los antiguos telefonos publicos, casa porton negro.","3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Aston,Porras,,,Fanny Rebeca Porras,"83,581,174",,,,"3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Dayra,Lopez,,,Juanita Perez,"61,911,116",,,,"3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Snayder,Lopez,,,Juanita Perez,"61,911,116",,,,"3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Kerly,Romero,,,Rosario Zarate,"86,732,923",,,"Calle Los Mangos, Bajo Los Anonos, casa colo blanca, dos plantas","3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Keylin,Perez,,,Adriana Perez,"88,086,531",,,,"3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Anthony,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Isabel,Vranken,Cocina Primaria (8 a 11 años) Grupo A,Lisclay,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - F - Cocina Primaria (8 a 11 anos) Grupo A - Isabel  Vranken",76,107
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Tiffany,Quesada,,,Alejandra Delgadillo,"85,744,204",,,,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Jason,Vanegas,,,Cristina Elizondo,"87,257,705",,,"Bajo Los Anonos, del puento pequeno 50 este a la par de Andamios Walter","4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Tabata,Mora,Cedeno,,Argerie Cedeno,"83,459,657",,,,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Kristel,Vanegas,Zamora,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Freydder,Rocha,Cordero,,Freidy Rossana Cordero,"70,313,623",,,"En el bajo, casa de 2 plantas color celeste.","4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Pamela,Umana,,,Andrea Torres,"85,634,468",,,,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Deikel,Davila,Angulo,,Lesly Angulo,"63,785,852",,"86,569,261",,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Genesis,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Vivian,Murillo,,,Francys Yahoska R,"72,415,980",,,del antiguo CEN CINAI 300 sur y 75 oeste.,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Denis,Valle,Cocina Primaria (8 a 11 años) Grupo B,Angie,Espinoza,,,Anita de los Angeles Espinoza Vanegas,"61,856,606",,,,"4 a 5 - F - Cocina Primaria (8 a 11 anos) Grupo B - Denis  Valle",74,108
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Erick,Zamora,Reyes,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Valery,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Elieth,Oporta,Zamora,,Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Sandro,Perez,,,Jaqueline Diaz,"71,512,030",,,,"4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Jonathan,Arroyo,,,Johana Aleman Delgado,"84,277,147",,,Bajo Los Anonos a la par del Rio,"4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Daniela,Rayo,,,Imna Mondoy,"61,911,116",,,,"4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Jose,Lazarte,Reyes,,Rosa Ana Lazarte,"88,012,524",,,,"4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Nicole,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Alexander,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Karina,Miranda,,,Doris Martinez,"89,454,470",,,"Alajuelita, San Jose","4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Brittany,Solis,,,Roxana Martinez,"87,196,880",,,"San Rafeal Escazu, Antiguo deposito Bello Horizonte 300 m sur calle Los Mangos, porton blanco ultima pulperia","4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Ana Laura,Meneses,Cocina Adolescentes (12 a 18 años) Grupo A,Ashley,Guzman,,"70050687",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"4 a 5 - W - Cocina Adolescentes (12 a 18 anos) Grupo A - Ana Laura  Meneses",62,109
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Keylor,Chaves,,,,,,,"De la antigua embajada Brasil 750 mts suroeste, frente a iglesia cristiana.","3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Wendy,Gutierrez,,,Dulce Diaz,"87,343,156",,,,"3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Dilan,Vanegas,Elizondo,"70942083",Cristina Elizondo Medina,"87,257,705",,,"De la embajada de Brazil 75 mts noreste, detras de la iglesia catolica.","3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Fernanda,Montes,,,Blanca Montes,"70,459,623",,,,"3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Ian,Guevara,Yesca,"71164491",Raquel Guerrero Urbina,,Anielka Yeska Guerrero,"72,494,346","Calle Los Mangos. De las bodegas de Santa barbara, 75 sur. Casa gradas de techo a mano derecha color verde","3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Julian,Murillo,,,,,,,"De la antigua distribuidora Santa Barbara, 100 este, 150 mts sur, mano derecha. Portón rojo. Calle los Mangos.","3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Andrew,Zuniga,Morales,,Tatiana Morales,"87,411,149",,,,"3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,David,Jimenez,,,Alejandra Jimenez,"83,631,109",,,,"3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Amberly,Rios,,,Jessica Rios,"72,580,142",,,,"3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Juliana,Pacheco,Arte Kinder (4 a 7 años) Grupo A,Test4,Apellido,,,,,,,,"3 a 4 - M - Arte Kinder (4 a 7 anos) Grupo A - Juliana  Pacheco",23,113
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Alison,Sanchez,Cedeno,,Argerie Cedeno,"83,459,657",,,,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Greivin,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Kristel,Vanegas,Zamora,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Isabella,Baldizon,,"72122132",Maria Isabel Narvaez,"70,548,245",,,"De la embajada de Brasil 200 mts sur y 25 este de los antiguos telefonos publicos, casa porton negro.","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Freydder,Rocha,Cordero,,Freidy Rossana Cordero,"70,313,623",,,"En el bajo, casa de 2 plantas color celeste.","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Pamela,Umana,,,Andrea Torres,"85,634,468",,,,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Genesis,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Anderson,Oconitrillo,,,Susan Mari­n,"72,969,963",Rocio Fernandez,"86,237,346","Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 250 este","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Raquel,Montes,,,Blanca Montes,"70,459,623",,,,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Franciny,Flores,Gonzales,,Mercedes Gonzales,"87,019,372",Henry Flores,"89,786,805",,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Keychel,Scott,Gomez,,Maria Gomez Quiroz,"72,095,867",,,Detras del antiguo kinder,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Martin,Calderon,Vegas,"61791979",Ana Margarita Vegas,,,,"Calle Los Mangos, Anonos, San Jose. Frente la Pulperia Dona Maria","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Ramon,Calderon,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Gari,Acevedo,,,Mari­a Fernanda Castillo,"62,587,466",,,,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Juliana,Perez,,,Dulce Diaz,"87,343,156",,,,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Daniela,Vargas,Arte Primaria (8 a 12 años) Grupo A,Litzy,Mejia,,,,,,,,"5 a 6 - M - Arte Primaria (8 a 12 anos) Grupo A - Daniela  Vargas",12,115
+Pamela,Castro,Arte Primaria (8 a 12 años) Grupo B,Jimena,Calvo,,,Mariana Morales,"85,544,892",,"22,912,252",,"3 a 4 - T - Arte Primaria (8 a 12 anos) Grupo B - Pamela  Castro",68,117
+Pamela,Castro,Arte Primaria (8 a 12 años) Grupo B,Josue,Chaves,,,Ana Garci­a Salazar,"72,456,100",,,Bajo Los Anonos al frente de la Iglesia Catolica,"3 a 4 - T - Arte Primaria (8 a 12 anos) Grupo B - Pamela  Castro",68,117
+Pamela,Castro,Arte Primaria (8 a 12 años) Grupo B,Juliana,Perez,,,Dulce Diaz,"87,343,156",,,,"3 a 4 - T - Arte Primaria (8 a 12 anos) Grupo B - Pamela  Castro",68,117
+Pamela,Castro,Arte Primaria (8 a 12 años) Grupo B,Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - T - Arte Primaria (8 a 12 anos) Grupo B - Pamela  Castro",68,117
+Pamela,Castro,Arte Primaria (8 a 12 años) Grupo B,Kiara,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"San Jose, Bajo los Anonos","3 a 4 - T - Arte Primaria (8 a 12 anos) Grupo B - Pamela  Castro",68,117
+Pamela,Castro,Arte Primaria (8 a 12 años) Grupo B,Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"3 a 4 - T - Arte Primaria (8 a 12 anos) Grupo B - Pamela  Castro",68,117
+Pamela,Castro,Arte Primaria (8 a 12 años) Grupo B,Jose,Lazarte,Reyes,,Rosa Ana Lazarte,"88,012,524",,,,"3 a 4 - T - Arte Primaria (8 a 12 anos) Grupo B - Pamela  Castro",68,117
+Denis,Valle,Bisutería Adultos,Sherry,Garcia,,,,,,,"De la antigua embajada de Brasil 750 mts suroeste, frente a iglesia cristiana.","3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Karen,Perez,,,Maria Estrada,"86,625,513",,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Jaqueline,Perez,,,Maria Estrada,"86,625,513",,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Maria,Estrada,,"86625513",,,,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Eliuth,Mendieta,Reyes,"61384981",,,,,"Del deposito santa baraba, 100 mts este, 100 mts sur","3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Julia,Andrade,Nativo,"87562429",,,,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Hellen,Umana,Prado,"84340472",,,,,"de credimuebles 100 sur, 100 este, subiendo las escaleres a mano derecha","3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Migdalia,Dinarte,,"86699847",,,,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Kattia,Navarro,,"86813671",,,,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Maria,Bermudez,,"87908670",,,,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Miriam,Molinares,Manzanares,"62163345",,,,,Calle los mangos,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Luisa,Sobalvarro,,"62650612",,,,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Seylin,Urena,,"89517078",,,,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Alejandra,Jimenez,,"83631109",,,,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Denis,Valle,Bisutería Adultos,Maria de los Angeles,Chinchilla,,"86022838",Maria de los Angeles Chinchilla,,,,,"3 a 4 - F - Bisuteria Adultos - Denis  Valle",74,118
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Keylor,Chaves,,,,,,,"De la antigua embajada Brasil 750 mts suroeste, frente a iglesia cristiana.","3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Dilan,Vanegas,Elizondo,"70942083",Cristina Elizondo Medina,"87,257,705",,,"De la embajada de Brazil 75 mts noreste, detras de la iglesia catolica.","3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Melanie,Mendez,,,Karina Diaz Flores,"60,954,355",,,"Bajo Los Anonos, de la antigua Ferreteria Santa Barbara 100 S y 100 este","3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Irvin,Rayo,,,Imna Mondoy,"61,911,116",,,,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Melissa,Gutierrez,,,Jaqueline Perez,"87,388,998",,"88,086,531",,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Fernanda,Montes,,,Blanca Montes,"70,459,623",,,,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Natalia,Ruiz,,,Blanca Montes,"70,459,623",,,,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Ian,Guevara,Yesca,"71164491",Raquel Guerrero Urbina,,Anielka Yeska Guerrero,"72,494,346","Calle Los Mangos. De las bodegas de Santa barbara, 75 sur. Casa gradas de techo a mano derecha color verde","3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Isaac,Acevedo,,,Maria Fernanda Castillo,"62,587,466",,,,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Tamara,Elizondo,,,Carolina Mairena Avalos,"61,071,258",,,,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Marvin,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Maria,Gago,Creacion de Objetos Kinder (4 a 7 años),Kimberly,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"3 a 4 - F - Creacion de Objetos Kinder (4 a 7 anos) - Maria  Gago",69,120
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Isabel,Rodriguez,,,Teresa Garcia,"60,793,551",,,del antiguo CEN CINAI 200 mts sur,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Tabata,Mora,Cedeno,,Argerie Cedeno,"83,459,657",,,,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Kristel,Vanegas,Zamora,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Kerly,Romero,,,Rosario Zarate,"86,732,923",,,"Calle Los Mangos, Bajo Los Anonos, casa colo blanca, dos plantas","11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Keylin,Perez,,,Adriana Perez,"88,086,531",,,,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Deikel,Davila,Angulo,,Lesly Angulo,"63,785,852",,"86,569,261",,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Briana,Solis,,,Roxana Martinez,"87,196,880",,,"300 m sur del antiguo Deposito Bello Horizonte, calle Los Mangos, ultima pulperia color blanco","11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Kevin,Sabayos,,,Anabela Miranda,"89,855,293",,,"Barrio Calle Los Mangos, al final de la calle, izquierda, color blanco","11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Ronny,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Raquel,Montes,,,Blanca Montes,"70,459,623",,,,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Alberth,Abarca,,,Ana Orozco Porras,"86,164,833",,,"Carretera vieja a Escazu 350 m sur, frente iglesia catolica, casa color fusia","11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Keychel,Scott,Gomez,,Maria Gomez Quiroz,"72,095,867",,,Detras del antiguo kinder,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Christie,Amores,Creacion de Objetos Primaria (8 a 12 años),Juan,Rugama,,,Luisa Sovalbarro,"85,800,727",,,,"11:30 a 12:30 - S - Creacion de Objetos Primaria (8 a 12 anos) - Christie  Amores",33,121
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Leidy,Mendez,,,,,,,"Bajo los Anonos, la rotonda.","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Keiry,Madrigal,,,Joseline Viales Ovares,"87,483,650",,,"Detras de la Iglesia Catolica, casa color papaya","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Melanie,Mendez,,,Karina Diaz Flores,"60,954,355",,,"Bajo Los Anonos, de la antigua Ferreteria Santa Barbara 100 S y 100 este","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Genesis,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Dayana,Alvarez,,,Edith Umana,"64,301,691",,"61,384,981",,"5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Melissa,Gutierrez,,,Jaqueline Perez,"87,388,998",,"88,086,531",,"5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Tiffany,Obando,,,Maydalin Rios,"87,528,935",,,,"5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Natalie,Vallecillos,,,Marisol Murillo,"85,438,851",,,"Del antiguo CEN 200 m sur 75 m este, casa color gris, mano izquierda","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Ashley,Murillo,,,Francys Yahoska Rodriguez,"72,415,980",,,"Del antiguio CEN CINAI 300 sur, 75 oeste","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Monserrat,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Fernanda,Montes,,,Blanca Montes,"70,459,623",,,,"5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Natalia,Ruiz,,,Blanca Montes,"70,459,623",,,,"5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Karla,Mercado,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Laura,Gordillo,Ballet Kinder (4 a 7 anos),Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"5 a 6 - H - Ballet Kinder (4 a 7 anos) - Laura  Gordillo",77,126
+Carina,Langone,Zumba Adultos,Argerie,Cedeno,Calderon,"83459657",,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Elieth,Oporta,Zamora,,Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Karina,Diaz,,"60954355",,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Andres,Castro,,,Dulce Di­az,"87,343,156",,,De la embajada de brasil 500 mts sur detras de la iglesia catolica.,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Graciela,Elizondo,,,,,,,"Credimuebles 175 mts este, 25 mts antes de llegar al puente.","4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Karen,Perez,,,Maria Estrada,"86,625,513",,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Jaqueline,Perez,,,Maria Estrada,"86,625,513",,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Maria,Estrada,,"86625513",,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Karina,Osorno,,"61542163",,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Nicole,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Alexander,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Amparo,Mendoza,Delgadillo,"72507688",,,,,De credimuebles 150 este casa color marron,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Maria,Bermudez,,"87908670",,,,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Cindy,Murillo,,"83833942",,,,,de credi mueble 100 este y 150 sur.,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Ana,Vega,Gomez,"61791979",Aura Luz Gomez,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Seylin,Urena,,"89517078",,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Fanny,Porros,,,,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Olga,Quiros,,"85518294",,,,,"Antiguo Ferreteria Santa Barbara, 200 m norte, color porton negro por el puente grande, Los Anonos","4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Alejandra,Jimenez,,"83631109",,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Carina,Langone,Zumba Adultos,Maria de los Angeles,Chinchilla,,"86022838",Maria de los Angeles Chinchilla,,,,,"4 a 5 - F - Zumba Adultos - Carina  Langone",63,127
+Eduardo,Pochet,Capoeira (7 a 12 anos),Greivin,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Aston,Porras,,,Fanny Rebeca Porras,"83,581,174",,,,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Ronny,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Samantha,Santamaria,,,Jennifer Santamaria,"87,908,670",,,,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Justin Matias,Anchia,,,Cindy Murillo,"83,833,942",,,de credi mueble 100 este y 150 sur,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Yomaira,Peinado Porras,,,Fanny Rebeca Porras,"83,581,174",,,De la embajada de brasil 200msur.,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Antony,Guzman,,"72303504",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Estrella,Lemuz,Mendoza,,Amparo Mendoza Degadillo,"72,507,688",,,De credimuebles 150 este casa color marron,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Olga,Sequeira,,,Hazel Sequeira Garci­a,"63,471,154",,,,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Isaac,Acevedo,,,Maria Fernanda Castillo,"62,587,466",,,,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Eduardo,Pochet,Capoeira (7 a 12 anos),Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"4 a 5 - M - Capoeira (7 a 12 anos) - Eduardo  Pochet",8,128
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Leidy,Mendez,,,,,,,"Bajo los Anonos, la rotonda.","5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Wendy,Gutierrez,,,Dulce Diaz,"87,343,156",,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Keiry,Madrigal,,,Joseline Viales Ovares,"87,483,650",,,"Detras de la Iglesia Catolica, casa color papaya","5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Irvin,Rayo,,,Imna Mondoy,"61,911,116",,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Dayana,Alvarez,,,Edith Umana,"64,301,691",,"61,384,981",,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Santiago,Zuniga,Leon,,Rocio Fernandez,"86,237,346",Carmen Marin,"40,308,998","calle los mangos, de la muebleria 100 este 350 sur","5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Natalia,Ruiz,,,Blanca Montes,"70,459,623",,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Christopher,Aburto,,,Vera Aburto Mora,"72,678,205",,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Julian,Murillo,,,,,,,"De la antigua distribuidora Santa Barbara, 100 este, 150 mts sur, mano derecha. Portón rojo. Calle los Mangos.","5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Karla,Mercado,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Marvin,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Andrew,Zuniga,Morales,,Tatiana Morales,"87,411,149",,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),David,Jimenez,,,Alejandra Jimenez,"83,631,109",,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Nicole,Warren,Aprender Jugando Kinder (4 a 7 anos),Amberly,Rios,,,Jessica Rios,"72,580,142",,,,"5 a 6 - W - Aprender Jugando Kinder (4 a 7 anos) - Nicole  Warren",54,129
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Jason,Vanegas,,,Cristina Elizondo,"87,257,705",,,"Bajo Los Anonos, del puento pequeno 50 este a la par de Andamios Walter","5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Sebastian,Bejarano,,,Viviana Bejarano,"70,881,228",,"61,346,340","300 metros de la fundacion, frente al taller loria.","5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Deikel,Davila,Angulo,,Lesly Angulo,"63,785,852",,"86,569,261",,"5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Joshua,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Ashley,Guzman,,"70050687",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Jimena,Calvo,,,Mariana Morales,"85,544,892",,"22,912,252",,"5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Gabriela,Rios,,,Jessica Rios,"72,580,142",,,,"5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Maria Fernanda,Jaikel,Aprender Jugando Primaria (8 a 14 anos),Aimar,Rios,,,Jessica Rios,"72,580,142",,,,"5 a 6 - M - Aprender Jugando Primaria (8 a 14 anos) - Maria Fernanda  Jaikel",25,130
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Tiffany,Quesada,,,Alejandra Delgadillo,"85,744,204",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Pamela,Umana,,,Andrea Torres,"85,634,468",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Irvin,Rayo,,,Imna Mondoy,"61,911,116",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Katherina,Berrios,,,Julia Andrade Nativo,"87,562,429",,,De la casa del mueble 100 este y 200 mts sur,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Kerly,Romero,,,Rosario Zarate,"86,732,923",,,"Calle Los Mangos, Bajo Los Anonos, casa colo blanca, dos plantas","9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Isabel,Rodriguez,,,Teresa Garcia,"60,793,551",,,del antiguo CEN CINAI 200 mts sur,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Keylin,Perez,,,Adriana Perez,"88,086,531",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Darian,Miranda,,,Doris Martinez,"89,454,470",,,"Bellotas, Alajuelita, San Jose","9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Briana,Solis,,,Roxana Martinez,"87,196,880",,,"300 m sur del antiguo Deposito Bello Horizonte, calle Los Mangos, ultima pulperia color blanco","9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Kevin,Sabayos,,,Anabela Miranda,"89,855,293",,,"Barrio Calle Los Mangos, al final de la calle, izquierda, color blanco","9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Wendy,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Ronny,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Virginia,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Allison,Arguedas,,,Vera Nidia Aburto Mora,"72,678,205",,"70,313,623",,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Adriana,Badilla,Lectoescritura Ninos (6 a 12 anos) Grupo A,Olga,Sequeira,,,Hazel Sequeira Garci­a,"63,471,154",,,,"9:30 a 10:30 - S - Lectoescritura Ninos (6 a 12 anos) Grupo A - Adriana  Badilla",28,131
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Yomaira,Peinado Porras,,,Fanny Rebeca Porras,"83,581,174",,,De la embajada de brasil 200msur.,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Jhonefe,Lopez,,,Karina Osorno,"61,542,163",,,,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Dayra,Lopez,,,Juanita Perez,"61,911,116",,,,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Snayder,Lopez,,,Juanita Perez,"61,911,116",,,,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Genesis,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Monserrat,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Harinton,Yesca,,,Raquel Guerrero Urbina,"71,022,475",,,,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Franciny,Flores,Gonzales,,Mercedes Gonzales,"87,019,372",Henry Flores,"89,786,805",,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Katy,Reyes,Urbina,,Marisol Murillo Rodriguez,"85,438,851",,,"Calle la quebrada, casa gris.","5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Justin Matias,Anchia,,,Cindy Murillo,"83,833,942",,,de credi mueble 100 este y 150 sur,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Eber,Canales,Aguilera,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Valeria,Mora,Lectoescritura Ninos (6 a 12 anos) Grupo B,Aaron,Duarte,Gonzalez,,Grisselda Daniela Gonzalez MIranda,"62,940,777",,,,"5 a 6 - T - Lectoescritura Ninos (6 a 12 anos) Grupo B - Valeria  Mora",36,132
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Tabata,Mora,Cedeno,,Argerie Cedeno,"83,459,657",,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Dilan,Vanegas,Elizondo,"70942083",Cristina Elizondo Medina,"87,257,705",,,"De la embajada de Brazil 75 mts noreste, detras de la iglesia catolica.","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Henry,Garcia,,,Mirna Rizo Alvarez,"72,430,637",,,De la iglesia Evangelica primera entrada a mano derecja,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Jefferson,Alvarez,,,Esther Alvarez,"86,093,981",,,"Calle Los Mangos, de la pulperia Mitalia 150 m sur, casa roja, mano derecha","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Jonathan,Cermeno,,"70628285",Vanessa del Carmen Potoy,"70,728,285",,,"Calle Los Mangos, de la pulperia Mitalia 150 m sur, mano derecha, color rojo","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Jhonefe,Lopez,,,Karina Osorno,"61,542,163",,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Irvin,Rayo,,,Imna Mondoy,"61,911,116",,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Genesis,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Briana,Solis,,,Roxana Martinez,"87,196,880",,,"300 m sur del antiguo Deposito Bello Horizonte, calle Los Mangos, ultima pulperia color blanco","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Natalia,Ruiz,,,Blanca Montes,"70,459,623",,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Christopher,Aburto,,,Vera Aburto Mora,"72,678,205",,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Karla,Mercado,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Dayana,Jarquin,,,Elba Jarquin,"84,168,483",,,"200 s, calle deposito los mangos","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Bryan,Lopez,,,,,,,"Calle los Mangos, Bajo los Anonos.","10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Tamara,Elizondo,,,Carolina Mairena Avalos,"61,071,258",,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Marvin,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),Kimberly,Zamora,,"72330738",Blanca Nieves Diaz Gudiel,,,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Patricia,Azofeifa,Cuentos y Valores (5 a 8 anos),David,Jimenez,,,Alejandra Jimenez,"83,631,109",,,,"10:30 a 11:30 - S - Cuentos y Valores (5 a 8 anos) - Patricia  Azofeifa",41,133
+Jeimy,Gonzalez,Valores (9 a 12 anos),Juliana,Perez,,,Dulce Diaz,"87,343,156",,,,"5 a 6 - H - Valores (9 a 12 anos) - Jeimy  Gonzalez",61,134
+Jeimy,Gonzalez,Valores (9 a 12 anos),Maria,Gonzalez,,,Edith Umana,"64,301,691",,"61,384,989",,"5 a 6 - H - Valores (9 a 12 anos) - Jeimy  Gonzalez",61,134
+Jeimy,Gonzalez,Valores (9 a 12 anos),Jose,Lazarte,Reyes,,Rosa Ana Lazarte,"88,012,524",,,,"5 a 6 - H - Valores (9 a 12 anos) - Jeimy  Gonzalez",61,134
+Jeimy,Gonzalez,Valores (9 a 12 anos),Raquel,Montes,,,Blanca Montes,"70,459,623",,,,"5 a 6 - H - Valores (9 a 12 anos) - Jeimy  Gonzalez",61,134
+Jeimy,Gonzalez,Valores (9 a 12 anos),Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"5 a 6 - H - Valores (9 a 12 anos) - Jeimy  Gonzalez",61,134
+Jeimy,Gonzalez,Valores (9 a 12 anos),Paola,Perez,,,Dulce Diaz,"87,343,156",,,"De la Embaja de Brasil 500 mts sur y 200 oeste, detras de la iglesia","5 a 6 - H - Valores (9 a 12 anos) - Jeimy  Gonzalez",61,134
+Carolina,Castro,Lectoescritura Adultos,Imna,Mondoy,,"61911116",,,,,,"3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Carolina,Castro,Lectoescritura Adultos,Rosario,Zarate,,"86732923",,,,,"Calle Los Mangos, Bajo los Anonos, casa blanca de dos pisos","3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Carolina,Castro,Lectoescritura Adultos,Olga,Quiros,,"85518294",,,,,"Antiguo Ferreteria Santa Barbara, 200 m norte, color porton negro por el puente grande, Los Anonos","3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Carolina,Castro,Lectoescritura Adultos,María,Bermudes,,,,,,,,"3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Carolina,Castro,Lectoescritura Adultos,Teresa,Garcia,Vasquez,"60793551",,,,,Del antiguo CEN CINAI 200 mts sur,"3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Carolina,Castro,Lectoescritura Adultos,Eliuth,Mendieta,Reyes,"61384981",,,,,"Del deposito santa baraba, 100 mts este, 100 mts sur","3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Carolina,Castro,Lectoescritura Adultos,Floribeth,Santamaria,,"70828827",,,,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Carolina,Castro,Lectoescritura Adultos,Fanny,Porros,,,,,,,,"3 a 4 - T - Lectoescritura Adultos - Carolina  Castro",46,135
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Genesis,Chaves,,,Ana Yancy Garcia Salazar,"72,456,100",,"71,373,301",,"5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Alison,Sanchez,Cedeno,,Argerie Cedeno,"83,459,657",,,,"5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Nicole,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Keylin,Perez,,,Adriana Perez,"88,086,531",,,,"5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Ashley,Guzman,,"70050687",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Nicole,Leon,Quiros,"85516765",Andrea Quiros,"86,704,701",,"63,835,236",,"5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Gloriana,Alvarado,Danza Adolescentes (12 a 16 anos),Paola,Perez,,,Dulce Diaz,"87,343,156",,,"De la Embaja de Brasil 500 mts sur y 200 oeste, detras de la iglesia","5 a 7 - T - Danza Adolescentes (12 a 16 anos)  - Gloriana  Alvarado",16,136
+Carolina,Guardia,Un cafecito con mamas,Sherry,Garcia,,,,,,,"De la antigua embajada de Brasil 750 mts suroeste, frente a iglesia cristiana.","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Jaqueline,Perez,,,Maria Estrada,"86,625,513",,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Eliuth,Mendieta,Reyes,"61384981",,,,,"Del deposito santa baraba, 100 mts este, 100 mts sur","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Julia,Andrade,Nativo,"87562429",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Karina,Osorno,,"61542163",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Rosario,Zarate,,"86732923",,,,,"Calle Los Mangos, Bajo los Anonos, casa blanca de dos pisos","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Olga,Quiros,,"85518294",,,,,"Antiguo Ferreteria Santa Barbara, 200 m norte, color porton negro por el puente grande, Los Anonos","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Migdalia,Dinarte,,"86699847",,,,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Doris,Martinez,,"89454470",,,,,"Bellotas, Alajuelita San Jose","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Kattia,Navarro,,"86813671",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Floribeth,Santamaria,,"70828827",,,,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Miriam,Molinares,Manzanares,"62163345",,,,,Calle los mangos,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Vera,Aburto,Mora,"72678205",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Cindy,Murillo,,"83833942",,,,,de credi mueble 100 este y 150 sur.,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Xinia,Marin,,"84456275",,,,,"de credimueble 100 este y 150 sur, primera entrada a bello horizonte","4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Ana,Gutierrez,,,,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Luisa,Sobalvarro,,"62650612",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Seylin,Urena,,"89517078",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Fanny,Porros,,,,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Alejandra,Jimenez,,"83631109",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Maria de los Angeles,Chinchilla,,"86022838",Maria de los Angeles Chinchilla,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Carolina,Guardia,Un cafecito con mamas,Roxana,Martinez,,"87196880",,,,,,"4 a 5 - W - Un cafecito con mamas - Carolina  Guardia",47,137
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Valery,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Katherina,Berrios,,,Julia Andrade Nativo,"87,562,429",,,De la casa del mueble 100 este y 200 mts sur,"3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Angelina,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Maria,Gonzalez,,,Edith Umana,"64,301,691",,"61,384,989",,"3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Kerly,Romero,,,Rosario Zarate,"86,732,923",,,"Calle Los Mangos, Bajo Los Anonos, casa colo blanca, dos plantas","3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Emily,Tinoco,Ortiz,,Ana Celia Tinoco,"72,594,204",,,De la antigua embajada de brazil 300 mts,"3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Karla,Adams,Arte y Galletas Niñas (10 a 12 anos),Keychel,Scott,Gomez,,Maria Gomez Quiroz,"72,095,867",,,Detras del antiguo kinder,"3 a 5 - H - Arte y Galletas Ninas (10 a 12 anos) - Karla  Adams",49,138
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Daniel,Ovares,,,Carla Ovares,"88,602,820",,,"Detras de la Iglesia Catolica, casa color papaya","5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Bryan,Montes,,,Blanca Montes,"70,459,623",,,Bajo de los anonos,"5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Roswell,Chaves,,"71017292",Ana Yancy Garcia Salazar,"72,456,100",,,"De la antigua Embajada de Brasi 750 mts sur-oeste, frente a la iglesia evangelical","5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Andres,Castro,,,Dulce Di­az,"87,343,156",,,De la embajada de brasil 500 mts sur detras de la iglesia catolica.,"5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Braudy,Castro,,,Graciela Chavarria Elizondo,"71,335,337",,,,"5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Yeron,Leandro,,,Marisol Rosales / Alfredo Leandro Garro,"72,395,061",,,"De la embajada de Brasil 500 m oeste, de la iglesia del Divino NiÃ±o 150 m sur, color verde, mano derecha","5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Anderson,Quesada,Calvo,"60198919",Miriam Calvo Porras,"60,803,495",,,De los andamios Loria 200 mts. Ultimo porton negro.,"5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Genesis,Chaves,,,Ana Yancy Garcia Salazar,"72,456,100",,"71,373,301",,"5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Alison,Sanchez,Cedeno,,Argerie Cedeno,"83,459,657",,,,"5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Paola,Perez,,,Dulce Diaz,"87,343,156",,,"De la Embaja de Brasil 500 mts sur y 200 oeste, detras de la iglesia","5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Andres,Monzon,Cocina Adolescentes (12 a 18 anos) Grupo B,Antony,Perez,,"60924444",Antonia Diaz,"70,289,467",,,,"5 a 7 - H - Cocina Adolescentes (12 a 18 anos) Grupo B - Andres  Monzon",45,139
+Alison,Robledo,No queremos enfermarnos mas - Adultos,Karina,Osorno,,"61542163",,,,,,"3 a 4 - F - No queremos enfermarnos mas - Adultos - Alison  Robledo",79,141
+Alison,Robledo,No queremos enfermarnos mas - Adultos,Rosario,Zarate,,"86732923",,,,,"Calle Los Mangos, Bajo los Anonos, casa blanca de dos pisos","3 a 4 - F - No queremos enfermarnos mas - Adultos - Alison  Robledo",79,141
+Alison,Robledo,No queremos enfermarnos mas - Adultos,Olga,Quiros,,"85518294",,,,,"Antiguo Ferreteria Santa Barbara, 200 m norte, color porton negro por el puente grande, Los Anonos","3 a 4 - F - No queremos enfermarnos mas - Adultos - Alison  Robledo",79,141
+Alison,Robledo,No queremos enfermarnos mas - Adultos,Teresa,Garcia,Vasquez,"60793551",,,,,Del antiguo CEN CINAI 200 mts sur,"3 a 4 - F - No queremos enfermarnos mas - Adultos - Alison  Robledo",79,141
+Alison,Robledo,No queremos enfermarnos mas - Adultos,Floribeth,Santamaria,,"70828827",,,,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","3 a 4 - F - No queremos enfermarnos mas - Adultos - Alison  Robledo",79,141
+Marcos,Jimenez,Cocina Adultos,Roxana,Martinez,,"87196880",,,,,,"9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Doris,Martinez,,"89454470",,,,,"Bellotas, Alajuelita San Jose","9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Imna,Mondoy,,"61911116",,,,,,"9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Karina,Osorno,,"61542163",,,,,,"9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Vanessa del Carmen,Potoy,,"70728285",,,,,"Calle Los Mango, 150m sur pulperia Mitalia, casa roja mano derecha","9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Olga,Quiros,,"85518294",,,,,"Antiguo Ferreteria Santa Barbara, 200 m norte, color porton negro por el puente grande, Los Anonos","9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Rosario,Zarate,,"86732923",,,,,"Calle Los Mangos, Bajo los Anonos, casa blanca de dos pisos","9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Migdalia,Dinarte,,"86699847",,,,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Maria,Estrada,,"86625513",,,,,,"9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Kattia,Navarro,,"86813671",,,,,,"9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Anabela,Miranda,,"89855293",,,,,"Calle Los Mangos, al final de la calle casa a mano izquierda color blanco","9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Carla,Ovares,,"88602820",,,,,"Detras de la iglesia catolica de Bajo de Los Anonos, casa color papaya","9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Karen,Perez,,,Maria Estrada,"86,625,513",,,,"9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Marcos,Jimenez,Cocina Adultos,Maria de los Angeles,Chinchilla,,"86022838",Maria de los Angeles Chinchilla,,,,,"9:30 a 12:30 - S - Cocina Adultos  - Marcos  Jimenez",59,142
+Valeria,Garcia,Danza Terapia Adolescentes,Elieth,Oporta,Zamora,,Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","10:30 a 12:30 - S - Danza Terapia Adolescentes - Valeria  Garcia",80,143
+Valeria,Garcia,Danza Terapia Adolescentes,Daniela,Rayo,,,Imna Mondoy,"61,911,116",,,,"10:30 a 12:30 - S - Danza Terapia Adolescentes - Valeria  Garcia",80,143
+Valeria,Garcia,Danza Terapia Adolescentes,Angelina,Miranda,,,Kattia Navarro,"86,813,671",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","10:30 a 12:30 - S - Danza Terapia Adolescentes - Valeria  Garcia",80,143
+Valeria,Garcia,Danza Terapia Adolescentes,Charlie,Jarquin,Jarquin,,Aura Jarquin Rodriguez,"71,755,877",,,,"10:30 a 12:30 - S - Danza Terapia Adolescentes - Valeria  Garcia",80,143
+Valeria,Garcia,Danza Terapia Adolescentes,Stephanie,Diaz,,"72559596",Blanca Nieves Diaz Gudiel,,,"72,330,738",,"10:30 a 12:30 - S - Danza Terapia Adolescentes - Valeria  Garcia",80,143
+Valeria,Garcia,Danza Terapia Adolescentes,Naydelin,Rueda,,,Elieth Reyes Castillo,"84,524,769",,,,"10:30 a 12:30 - S - Danza Terapia Adolescentes - Valeria  Garcia",80,143
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Bryan,Montes,,,Blanca Montes,"70,459,623",,,Bajo de los anonos,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Roswell,Chaves,,"71017292",Ana Yancy Garcia Salazar,"72,456,100",,,"De la antigua Embajada de Brasi 750 mts sur-oeste, frente a la iglesia evangelical","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Yeron,Leandro,,,Marisol Rosales / Alfredo Leandro Garro,"72,395,061",,,"De la embajada de Brasil 500 m oeste, de la iglesia del Divino NiÃ±o 150 m sur, color verde, mano derecha","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Josue,Chaves,,,Ana Garci­a Salazar,"72,456,100",,,Bajo Los Anonos al frente de la Iglesia Catolica,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Jason,Vanegas,,,Cristina Elizondo,"87,257,705",,,"Bajo Los Anonos, del puento pequeno 50 este a la par de Andamios Walter","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Derek,Araya,,"86587345",Raquel Ramirez,"87,334,365",,,Bajo los Anonos.,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Anderson,Quesada,Calvo,"60198919",Miriam Calvo Porras,"60,803,495",,,De los andamios Loria 200 mts. Ultimo porton negro.,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Daniel,Ovares,,,Carla Ovares,"88,602,820",,,"Detras de la Iglesia Catolica, casa color papaya","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Paola,Perez,,,Dulce Diaz,"87,343,156",,,"De la Embaja de Brasil 500 mts sur y 200 oeste, detras de la iglesia","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Greivin,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Erick,Zamora,Reyes,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Caleb,Mora,,"89377058",Olman Mora,"61,354,590",,,"De la Iglesia Judia 200 m sur 200 m suroeste casa mano izquierda, porton gris.","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Valery,Maravilla,,,Karina Diaz,"60,954,355",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 100 sur y 100 este","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Antony,Perez,,"60924444",Antonia Diaz,"70,289,467",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Andres,Castro,,,Dulce Di­az,"87,343,156",,,De la embajada de brasil 500 mts sur detras de la iglesia catolica.,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Sandro,Perez,,,Jaqueline Diaz,"71,512,030",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Jonathan,Arroyo,,,Johana Aleman Delgado,"84,277,147",,,Bajo Los Anonos a la par del Rio,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Sebastian,Bejarano,,,Viviana Bejarano,"70,881,228",,"61,346,340","300 metros de la fundacion, frente al taller loria.","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Freydder,Rocha,Cordero,,Freidy Rossana Cordero,"70,313,623",,,"En el bajo, casa de 2 plantas color celeste.","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Snayder,Lopez,,,Juanita Perez,"61,911,116",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Jose,Lazarte,Reyes,,Rosa Ana Lazarte,"88,012,524",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Alexander,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Brandon,Perez,,,Adriana Perez,"88,086,531",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Anthony,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Lisclay,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Justin,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",credi muebles 200 mts sur doblando a la derecha,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Harinton,Yesca,,,Raquel Guerrero Urbina,"71,022,475",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Jefferson,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Jairo,Navarro,Navarro,,Marta Navarro,"70,491,766",,,"del mercado del mueble 150 este, 300 sur, 100 este, casa color papaya","5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Juan,Rugama,,,Luisa Sovalbarro,"85,800,727",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Gari,Acevedo,,,Mari­a Fernanda Castillo,"62,587,466",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Hombres (7 a 20 anos),Kendall,Esquivel,Quiros,,Andrea Quiros,"86,704,701",,"63,835,236",,"5 a 6 - W - Jiu-Jitsu Hombres (7 a 20 anos) - Adrian  Alvarado",21,144
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Josue,Chaves,,,Ana Garci­a Salazar,"72,456,100",,,Bajo Los Anonos al frente de la Iglesia Catolica,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Jason,Vanegas,,,Cristina Elizondo,"87,257,705",,,"Bajo Los Anonos, del puento pequeno 50 este a la par de Andamios Walter","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Derek,Araya,,"86587345",Raquel Ramirez,"87,334,365",,,Bajo los Anonos.,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Daniel,Ovares,,,Carla Ovares,"88,602,820",,,"Detras de la Iglesia Catolica, casa color papaya","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Paola,Perez,,,Dulce Diaz,"87,343,156",,,"De la Embaja de Brasil 500 mts sur y 200 oeste, detras de la iglesia","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Erick,Zamora,Reyes,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Caleb,Mora,,"89377058",Olman Mora,"61,354,590",,,"De la Iglesia Judia 200 m sur 200 m suroeste casa mano izquierda, porton gris.","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Daniel,Solis,,,Mirna Rizo Alvarez,"72,430,637",,,"De la Evangelica a mano derecha, entrada Bajo Los Anonos, Blanca, planta alta.","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Antony,Perez,,"60924444",Antonia Diaz,"70,289,467",,,,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Andres,Castro,,,Dulce Di­az,"87,343,156",,,De la embajada de brasil 500 mts sur detras de la iglesia catolica.,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Darwin,Centeno,Zamora,,Yaelki del Carmen,"70,059,885",,,"en el bajo, casa de 2 pisos celeste","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Jose,Lazarte,Reyes,,Rosa Ana Lazarte,"88,012,524",,,,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Jerson,Gonzalez,,,Edith Umana,"84,412,777",,"61,384,981",,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Emily,Tinoco,Ortiz,,Ana Celia Tinoco,"72,594,204",,,De la antigua embajada de brazil 300 mts,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Bryan,Montes,,,Blanca Montes,"70,459,623",,,Bajo de los anonos,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Jefry,Perez,Narbaez,,Belkin Narvaez,"71,590,532",,,"de la antigua ferreteria santa barbara 100 mts norte, 300 mts sur, los anonos calle los mangos","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Martin,Calderon,Vegas,"61791979",Ana Margarita Vegas,,,,"Calle Los Mangos, Anonos, San Jose. Frente la Pulperia Dona Maria","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Ramon,Calderon,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Adrian,Alvarado,Jiu-Jitsu Mixto (7 a 20 anos),Kendall,Esquivel,Quiros,,Andrea Quiros,"86,704,701",,"63,835,236",,"10:30 a 12:30 - S - Jiu-Jitsu Mixto (7 a 20 anos) - Adrian  Alvarado",21,145
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Melanie,Mendez,,,Karina Diaz Flores,"60,954,355",,,"Bajo Los Anonos, de la antigua Ferreteria Santa Barbara 100 S y 100 este","4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Henry,Garcia,,,Mirna Rizo Alvarez,"72,430,637",,,De la iglesia Evangelica primera entrada a mano derecja,"4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Jefferson,Alvarez,,,Esther Alvarez,"86,093,981",,,"Calle Los Mangos, de la pulperia Mitalia 150 m sur, casa roja, mano derecha","4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Jonathan,Cermeno,,"70628285",Vanessa del Carmen Potoy,"70,728,285",,,"Calle Los Mangos, de la pulperia Mitalia 150 m sur, mano derecha, color rojo","4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Darwin,Centeno,Zamora,,Yaelki del Carmen,"70,059,885",,,"en el bajo, casa de 2 pisos celeste","4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Melissa,Gutierrez,,,Jaqueline Perez,"87,388,998",,"88,086,531",,"4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Francisco,Santamaria,Alvarado,,Floribeth Santamaria,"70,828,827",,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Santiago,Zuniga,Leon,,Rocio Fernandez,"86,237,346",Carmen Marin,"40,308,998","calle los mangos, de la muebleria 100 este 350 sur","4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Natalia,Ruiz,,,Blanca Montes,"70,459,623",,,,"4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Marielena,Hernandez,Arte Kinder (4 a 7 anos) Grupo B,Christopher,Aburto,,,Vera Aburto Mora,"72,678,205",,,,"4 a 5 - T - Arte Kinder (4 a 7 anos) Grupo B - Marielena  Hernandez",82,146
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Jesser,Prado,Chavez,,Neilyn Prado Chaves,"60,660,102",,,"de credimuebles 100 mts este, 100 mts sur, subiendo las gradas a mano derecha","4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Alexander,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Antony,Guzman,,"72303504",Vanessa Anchia,"70,064,650",,,de credi mueble 100 este y 150 sur,"4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Jairo,Navarro,Navarro,,Marta Navarro,"70,491,766",,,"del mercado del mueble 150 este, 300 sur, 100 este, casa color papaya","4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Kiara,Angulo Velasquez,,"61615137",Juana Velasquez,"61,615,137",,,"San Jose, Bajo los Anonos","4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Martin,Calderon,Vegas,"61791979",Ana Margarita Vegas,,,,"Calle Los Mangos, Anonos, San Jose. Frente la Pulperia Dona Maria","4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Ramon,Calderon,Vega,"61791979",Ana Margarita Vega,,,,"Calle Los Mangos, Anonos. Frente La Pulperia Dona Maria","4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Bryan,Lopez,,,,,,,"Calle los Mangos, Bajo los Anonos.","4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Naomi,Castillo,,,Seylin Urena,"87,894,265",,,,"4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Ninos (7-11 anos),Carlos,Cruz,,,Ana Rosa Laguna Aguirre,"89,721,765",,,,"4 a 5 - T - Futbol Ninos (7-11 anos) - Fernando  Chavarria",81,147
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Yeron,Leandro,,,Marisol Rosales / Alfredo Leandro Garro,"72,395,061",,,"De la embajada de Brasil 500 m oeste, de la iglesia del Divino NiÃ±o 150 m sur, color verde, mano derecha","5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Anderson,Quesada,Calvo,"60198919",Miriam Calvo Porras,"60,803,495",,,De los andamios Loria 200 mts. Ultimo porton negro.,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Andres,Castro,,,Dulce Di­az,"87,343,156",,,De la embajada de brasil 500 mts sur detras de la iglesia catolica.,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Braudy,Castro,,,Graciela Chavarria Elizondo,"71,335,337",,,,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Jonathan,Arroyo,,,Johana Aleman Delgado,"84,277,147",,,Bajo Los Anonos a la par del Rio,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Yasser,Perez,Prado,,Neilyn Prado Chaves,"60,660,102",,,de credimuebles 100 este y 100 sur. Casa a mano derecha subiendo las gradas,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Anthony,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Lisclay,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Justin,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",credi muebles 200 mts sur doblando a la derecha,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Manuel,Soto,,"84633578",Jaqueline Arrieta,,,,,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Fernando,Chavarria,Futbol Adolescentes (12 a 15 anos),Jeison,Urbina,,,Lorena Carballo,"70,310,481",,,,"5 a 6 - T - Futbol Adolescentes (12 a 16 anos) - Fernando  Chavarria",81,148
+Ana Yancy,Carmona,Profe Ana Yancy Carmona,Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"5 a 6 - M - Profe Ana Yancy Carmona - Ana Yancy  Carmona",11,149
+Ana Maria,Barboza,Profe Ana María Barboza,Wendy,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"5 a 6 - M - Profe Ana María Barboza - Ana Maria  Barboza",13,150
+Ana Maria,Barboza,Profe Ana María Barboza,Virginia,Flores,,,Juana Mercedes Ruiz Chavez,"63,051,476",,,,"5 a 6 - M - Profe Ana María Barboza - Ana Maria  Barboza",13,150
+Sharon,Solano,Profe Sharon Solano,Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"4 a 5 - M - Profe Sharon Solano - Sharon  Solano",24,151
+Johan,Tijerino,Profe Johan Tijerino,Daniel,Ovares,,,Carla Ovares,"88,602,820",,,"Detras de la Iglesia Catolica, casa color papaya","5 a 6 - T - Profe Johan Tijerino - Johan  Tijerino",71,154
+Giovanna,Bettoni,Profe Giovanna Bettoni,Benjamin,Canales,Aguilar,,Maria Bermudez,"62,945,299",,,"400 mts bajando la cuesta de LH.","3 a 4 - F - Profe Giovanna Bettoni - Giovanna  Bettoni",66,156
+Maria Fernanda,Calderon,Profe Maria Fernanda Calderon,Ashley,Vargas,Vargas,,Eliuth Mendieta Reyes,"61,384,981",,"62,384,981",,"3 a 4 - F - Profe Maria Fernanda Calderon - Maria Fernanda  Calderon",67,157
+Lucia,Venegas,Profe Lucia Venegas,Emily,Palacios,,,Rosaura Centeno Montes,"63,123,525",,,,"11:30 a 12:30 - S - Profe Lucia Venegas - Lucia  Venegas",70,158
+Valeria,Villalobos Lesco,Profe Valeria Villalobos,Bryan,Montes,,,Blanca Montes,"70,459,623",,,Bajo de los anonos,"3 a 4 - W - Profe Valeria Villalobos - Valeria  Villalobos Lesco",108,160
+Andrea,Garcia,Frances Colegio,Alison,Sanchez,Cedeno,,Argerie Cedeno,"83,459,657",,,,"4 a 5 - F - Frances Colegio - Andrea  Garcia",109,162
+Andrea,Garcia,Frances Colegio,Erick,Zamora,Reyes,"71172716",Esther Maria Zamora Reyes,"71,172,716",Felipa Zamora,"72,677,570","En las gradas, casa de 2 plantas color celeste","4 a 5 - F - Frances Colegio - Andrea  Garcia",109,162
+Andrea,Garcia,Frances Colegio,Caleb,Mora,,"89377058",Olman Mora,"61,354,590",,,"De la Iglesia Judia 200 m sur 200 m suroeste casa mano izquierda, porton gris.","4 a 5 - F - Frances Colegio - Andrea  Garcia",109,162
+Andrea,Garcia,Frances Colegio,Antony,Perez,,"60924444",Antonia Diaz,"70,289,467",,,,"4 a 5 - F - Frances Colegio - Andrea  Garcia",109,162
+Andrea,Garcia,Frances Colegio,Daniela,Rayo,,,Imna Mondoy,"61,911,116",,,,"4 a 5 - F - Frances Colegio - Andrea  Garcia",109,162
+Andrea,Garcia,Frances Colegio,Lener,Perez,,,Andrea Torres,"85,634,468",,,,"4 a 5 - F - Frances Colegio - Andrea  Garcia",109,162
+Andrea,Garcia,Frances Colegio,Justin,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",credi muebles 200 mts sur doblando a la derecha,"4 a 5 - F - Frances Colegio - Andrea  Garcia",109,162
+Andrea,Garcia,Costura Adultos,Sherry,Garcia,,,,,,,"De la antigua embajada de Brasil 750 mts suroeste, frente a iglesia cristiana.","5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Carla,Ovares,,"88602820",,,,,"Detras de la iglesia catolica de Bajo de Los Anonos, casa color papaya","5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Graciela,Elizondo,,,,,,,"Credimuebles 175 mts este, 25 mts antes de llegar al puente.","5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Karen,Perez,,,Maria Estrada,"86,625,513",,,,"5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Jaqueline,Perez,,,Maria Estrada,"86,625,513",,,,"5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Julia,Andrade,Nativo,"87562429",,,,,,"5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Imna,Mondoy,,"61911116",,,,,,"5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Karina,Osorno,,"61542163",,,,,,"5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Rosario,Zarate,,"86732923",,,,,"Calle Los Mangos, Bajo los Anonos, casa blanca de dos pisos","5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Olga,Quiros,,"85518294",,,,,"Antiguo Ferreteria Santa Barbara, 200 m norte, color porton negro por el puente grande, Los Anonos","5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Hellen,Umana,Prado,"84340472",,,,,"de credimuebles 100 sur, 100 este, subiendo las escaleres a mano derecha","5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Andrea,Garcia,Costura Adultos,Migdalia,Dinarte,,"86699847",,,,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 300 sur y 50 este","5 a 6 - W - Costura Adultos - Andrea  Garcia",109,163
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Anthony,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Tamara,Umana,,,Andrea Torres,"85,634,468",,,,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Pamela,Umana,,,Andrea Torres,"85,634,468",,,,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Juliana,Perez,,,Dulce Diaz,"87,343,156",,,,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Lisclay,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Alexander,Perez,,,Berania Aburto,"63,334,984",,,"Bajo de los Anonos, de la antigua Ferreteria Santa Barbara 400 norte Los Mangos","3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Brandon,Rayo,,,Igma Mondoy,"61,911,116",,,,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Irvin,Rayo,,,Imna Mondoy,"61,911,116",,,,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Justin,Flores,Gonzales,,Meylin Gonzales,"88,504,704",Gilberto Flores,"85,820,155",credi muebles 200 mts sur doblando a la derecha,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Raquel,Montes,,,Blanca Montes,"70,459,623",,,,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Cortometrajes Infantiles (8 a 12 anos),Natalia,Ruiz,,,Blanca Montes,"70,459,623",,,,"3 a 4 - M - Cortometrajes Infantiles (8 a 12 anos) - Sofia  UCIMED",112,164
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Kattia,Navarro,,"86813671",,,,,,"4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Amparo,Mendoza,Delgadillo,"72507688",,,,,De credimuebles 150 este casa color marron,"4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Eliuth,Mendieta,Reyes,"61384981",,,,,"Del deposito santa baraba, 100 mts este, 100 mts sur","4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Seylin,Urena,,"89517078",,,,,,"4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Floribeth,Santamaria,,"70828827",,,,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,María,Bermudes,,,,,,,,"4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Teresa,Garcia,Vasquez,"60793551",,,,,Del antiguo CEN CINAI 200 mts sur,"4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Fanny,Porros,,,,,,,,"4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Manualidades Adolescentes y Adultos,Olga,Quiros,,"85518294",,,,,"Antiguo Ferreteria Santa Barbara, 200 m norte, color porton negro por el puente grande, Los Anonos","4 a 5 - H - Manualidades Adolescentes y Adultos - Sofia  UCIMED",112,166
+Sofia,UCIMED,Alimentacion Saludable Adolescentes y Adultos,Teresa,Garcia,Vasquez,"60793551",,,,,Del antiguo CEN CINAI 200 mts sur,"5 a 6 - W - Alimentacion Saludable Adolescentes y Adultos - Sofia  UCIMED",112,168
+Sofia,UCIMED,Alimentacion Saludable Adolescentes y Adultos,Kattia,Navarro,,"86813671",,,,,,"5 a 6 - W - Alimentacion Saludable Adolescentes y Adultos - Sofia  UCIMED",112,168
+Sofia,UCIMED,Alimentacion Saludable Adolescentes y Adultos,Floribeth,Santamaria,,"70828827",,,,,"Contiguo al deposito Santa Baraba, Casa color cafe con leche, porton rojo","5 a 6 - W - Alimentacion Saludable Adolescentes y Adultos - Sofia  UCIMED",112,168
+Sofia,UCIMED,Actividades para el Bienestar Jovenes y Adultos,Betania,Rios,,"72580142",Jessica Rios,"72,580,142",,,,"4 a 5 - H - Actividades para el Bienestar Jovenes y Adultos - Sofia  UCIMED",112,169
+Sofia,UCIMED,Reciclando con Amor Ninos (8 a 12 anos),Aimar,Rios,,,Jessica Rios,"72,580,142",,,,"5 a 6 - H - Reciclando con Amor Ninos (8 a 12 anos) - Sofia  UCIMED",112,170
