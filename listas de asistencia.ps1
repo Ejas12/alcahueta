@@ -1,43 +1,23 @@
 ﻿$students = Import-Csv .\students.csv
 $profeslist = Import-Csv .\profes.csv
-$emailbody1 = gc .\emailtemplate.html
-$Header = @"
- <style type="text/css">
-@page {
-  size: A4 landscape;
-}
+$emailtemplate = gc .\emailtemplate.html -Encoding UTF8
+$email = "myemail3@gmail.com" 
+$pass = "MyPass@123" 
+$SMTPServer = "smtp.gmail.com"
+$SMTPPort = "587"
+$gmailcred = Get-Credential "Entre su usuario y contrasena"
 
-
-        body {
-            font-family: verdana, arial, sans-serif ;
-            font-size: 12px ;
-            }
-table {
-    border-collapse: collapse;page-break-inside: avoid;left:35px; position:relative;page-break-inside:auto
-}
-
-table, th, td {
-    border: 1px solid black;
-}
-
-    thead { display:table-header-group }
-    tfoot { display:table-footer-group }
- tr {height: 25%; font-size: 18px;page-break-inside:avoid; page-break-after:auto}
-</style>
-"@ 
-
-$Header | Out-File out.html
 
 foreach ($profe in $profeslist) {
 
 
-$outcsv = $profe.profenombre+".html"
-
+$outcsv = $profe.profenombre+".csv"
+$outhtml = $profe.profenombre+".html"
 
 $profeid= $profe.profeid
 $curso = $profe.profecurso
 $profefull = $profe.profenombre+" "+$profe.profeapellido
-
+$profeemail = $profe.profeemail
 ####definir dias#####
 
 $horas = $profe.short_name
@@ -51,20 +31,22 @@ if ($profe.profedia -eq "F") {$cursodia = "Viernes"}
 #############################################
 
 
-$titulo = "
-<p style='page-break-before: always'>
-<img src='Untitled.png' style='width:160px;height:40px; position:relative;'>
-<p style='position:relative;left:90px;'> Lista de clase $curso</p>
-<p style='position:relative;left:90px;'> Profesor $profefull </p>
-<p style='position:relative;left:90px;'> $cursodia de $horas</p>"
-$titulo | out-file out.html -Append
+
+$listafiltrada = $students | where {$_.ProfeID -eq $profeid} 
 
 
-$listafiltrada = $students | where {$_.ProfeID -eq $profeid} | select Nombre, Apellido, "Segundo Apellido", "_1", "_2", "_3", "_4","_5", "_6", "_7", "_8", "_9", "10", "11", "12", "13", "14"
 
+$listafiltrada | Export-Csv $outcsv -NoTypeInformation
+$addprofe = $emailtemplate -replace '@PROFE', $profefull
+$addcourse = $addprofe -replace '@coursename', $curso
+$adddias = $addcourse -replace '@dias', $cursodia
+$addhora = $adddias -replace '@hora', $profe.profehorariostart
+$emailbody = $addhora 
+$emailbody | Out-File $outhtml
+$Subject = "Email Subject"
 
-$outputhtml = $listafiltrada | ConvertTo-Html -as Table -fragment
-
-$outputhtml | Out-File out.html -Append
+#Send-MailMessage -From $email -to $profeemail -BCc 'esteban128a@hotmail.com' -Subject $Subject `
+#-Body $emailbody -SmtpServer $SMTPServer -port $SMTPPort -UseSsl `
+#-Credential $gmailcred -Attachments $outcsv
 
 } 
