@@ -1,0 +1,33 @@
+﻿<Window
+
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+  Title="MainWindow" Height="350" Width="525">
+
+    <Grid>
+
+        <Label x:Name="listaalumnos" Content="Lista Alumnos" HorizontalAlignment="Left" Margin="68,38,0,0" VerticalAlignment="Top" Width="197"/>
+
+        <Button x:Name="submitscript" Content="Button" HorizontalAlignment="Left" Margin="203,262,0,0" VerticalAlignment="Top" Width="75">
+            <Button.BindingGroup>
+                <BindingGroup/>
+            </Button.BindingGroup>
+            <Button.DataContext>
+                <JumpList/>
+            </Button.DataContext>
+        </Button>
+        <TextBox x:Name="listaalumnos1" HorizontalAlignment="Left" Height="23" Margin="203,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="listaprofes" Content="Lista Profes" HorizontalAlignment="Left" Margin="68,82,0,0" VerticalAlignment="Top" Height="24" Width="99"/>
+        <TextBox x:Name="listaprofes1" HorizontalAlignment="Left" Height="23" Margin="203,86,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <RadioButton x:Name="printlists" Content="Listas para imprimir" HorizontalAlignment="Left" Margin="203,179,0,0" VerticalAlignment="Top" GroupName="choice"/>
+        <RadioButton x:Name="testfiles" Content="Test de correos" HorizontalAlignment="Left" Margin="203,216,0,0" VerticalAlignment="Top" GroupName="choice"/>
+        <RadioButton x:Name="sendmail" Content="Enviar correos" HorizontalAlignment="Left" Margin="203,142,0,0" VerticalAlignment="Top" GroupName="choice"/>
+        <Label x:Name="accion" Content="Accion" HorizontalAlignment="Left" Margin="68,168,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+
+</Window>
+    
+    

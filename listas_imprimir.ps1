@@ -1,5 +1,24 @@
-﻿$students = Import-Csv .\students.csv
-$profeslist = Import-Csv .\profes.csv
+﻿####functions######
+Function Get-FileName($initialDirectory)
+{   
+ [System.Reflection.Assembly]::LoadWithPartialName("System.windows.forms") |
+ Out-Null
+
+ $OpenFileDialog = New-Object System.Windows.Forms.OpenFileDialog
+ $OpenFileDialog.initialDirectory = $initialDirectory
+ $OpenFileDialog.filter = "All files (*.*)| *.*"
+ $OpenFileDialog.ShowDialog() | Out-Null
+ $OpenFileDialog.filename
+} #end function Get-FileName
+
+
+Write-Host 'Seleccione archivo que contiene los alumnos'
+$studentsfilename =  Get-FileName
+$students = Import-Csv $studentsfilename
+Write-Host 'Seleccione archivo que contiene los profes'
+$profeslistfilename = Get-FileName
+$profeslist = Import-Csv $profeslistfilename
+
 $emailbody1 = gc .\emailtemplate.html
 $Header = @"
  <style type="text/css">
@@ -32,7 +51,7 @@ foreach ($profe in $profeslist) {
 
 
 $outcsv = $profe.profenombre+".html"
-
+$profecourseid = $profe.courseID
 
 $profeid= $profe.profeid
 $curso = $profe.profecurso
@@ -40,7 +59,8 @@ $profefull = $profe.profenombre+" "+$profe.profeapellido
 
 ####definir dias#####
 
-$horas = $profe.short_name
+$horas = $profe.profehorariostart+" a "+$profe.profehorariosend
+
 if ($profe.profedia -eq "S") {$cursodia= "Sabado"}
 if ($profe.profedia -eq "M") {$cursodia = "Lunes"} 
 if ($profe.profedia -eq "T") {$cursodia = "Martes"} 
@@ -60,7 +80,7 @@ $titulo = "
 $titulo | out-file out.html -Append
 
 
-$listafiltrada = $students | where {$_.ProfeID -eq $profeid} | select Nombre, Apellido, "Segundo Apellido", "_1", "_2", "_3", "_4","_5", "_6", "_7", "_8", "_9", "10", "11", "12", "13", "14"
+$listafiltrada = $students | where {$_.courseID -eq $profecourseid} | select 'Nombre Alumno', 'Apellido Alumno' , "Segundo Apellido", "_1", "_2", "_3", "_4","_5", "_6", "_7", "_8", "_9", "10", "11", "12", "13", "14"
 
 
 $outputhtml = $listafiltrada | ConvertTo-Html -as Table -fragment
