@@ -80,7 +80,7 @@ $titulo = "
 $titulo | out-file out.html -Append
 
 
-$listafiltrada = $students | where {$_.courseID -eq $profecourseid} | select 'Nombre Alumno', 'Apellido Alumno' , "Segundo Apellido", "_1", "_2", "_3", "_4","_5", "_6", "_7", "_8", "_9", "10", "11", "12", "13", "14"
+$listafiltrada = $students | where {$_.courseID -eq $profecourseid} | select Nombre, Apellido, "Telefono Directo", "_1", "_2", "_3", "_4","_5", "_6", "_7", "_8", "_9", "10", "11", "12", "13", "14"
 
 
 $outputhtml = $listafiltrada | ConvertTo-Html -as Table -fragment

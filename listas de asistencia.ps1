@@ -35,11 +35,13 @@ $profecourseid = $profe.courseID
 
 $outcsv = $profecourseid+".csv"
 $outhtml = $profecourseid+".html"
-
+$outpng = $profecourseid+".png"
+$snapurl = "https://s3-us-west-2.amazonaws.com/liftinglistsnaps/"+$outpng
 $profeid= $profe.profeid
 $curso = $profe.profecurso
 $profefull = $profe.profenombre+" "+$profe.profeapellido
 $profeemail = $profe.profeemail
+$profephone = $profe.profephone
 
 ####definir dias#####
 
@@ -54,11 +56,11 @@ if ($profe.profedia -eq "F") {$cursodia = "Viernes"}
 #############################################
 
 
-$listafiltrada = $students | where {$_.courseID -eq $profecourseid} 
+$listafiltrada = $students | where {$_.courseID -eq $profecourseid} | select Nombre, Apellido, 'Telefono directo'
 
 
 
-$listafiltrada | Export-Csv $outcsv -NoTypeInformation
+$listafiltrada |  Export-Csv $outcsv -NoTypeInformation
 $addprofe = $emailtemplate -replace '@PROFE', $profefull
 $addcourse = $addprofe -replace '@coursename', $curso
 $adddias = $addcourse -replace '@dias', $cursodia
@@ -66,6 +68,11 @@ $addhora = $adddias -replace '@hora', $profe.profehorariostart
 $addhora | Out-File $outhtml
 $emailbody = gc $outhtml -Encoding UTF8 | Out-String 
 $Subject = "Email Subject"
-Write-Host $profeemail
+Write-Host $profeemail $snapurl
+$msgid = Get-Random -Minimum 3 -Maximum 9999
+#python convert-csv-to-jpg.py $outcsv
+$whatsappapicall = 'https://www.waboxapp.com/api/send/media?token=2f9946f8f7dbfc1cfb8ddeb854b10f3a5aca527b4b2a7&uid=50689910903&to='+$profephone+'&custom_uid=msg'+$msgid+'&caption=test+alcahueta&url='+$snapurl
+$whatsappapicall
 #Send-MailMessage -From $email -to $profeemail -Subject $Subject -Credential $gmailcred -Attachments $outcsv -Body $emailbody  -SmtpServer $SMTPServer  -port $SMTPPort -UseSsl -BodyAsHtml -Encoding UTF8
 } 
+

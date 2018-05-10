@@ -73,7 +73,7 @@
 </style>
 <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Source+Sans+Pro" rel="stylesheet">
 </head>
-<body style="background-color: white; margin: 0 !important; padding: 0 !important;">
+<body style="background-color: #f4f4f4; margin: 0 !important; padding: 0 !important;">
 
 <!-- HIDDEN PREHEADER TEXT -->
 <div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px; font-family: 'Lato', Helvetica, Arial, sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
@@ -83,8 +83,8 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <!-- LOGO -->
     <tr>
-        <td bgcolor="white" align="center">
-		<div align="left" style="width:155px;height:50px;background-color:white; position:absolute; top:20px; left: 45%;border-radius: 4px 4px 4px 4px; align:center"><a href="http://www.liftinghands.org/" ><img src="http://www.liftinghands.org/images/logo-hor.png" align="center"  style='width:225px;height:50px;'/></a></div>
+        <td bgcolor="#ce4195" align="center">
+		<div align="left" style="width:155px;height:50px;background-color:white; position:absolute; top:20px; left: 10px;border-radius: 4px 4px 4px 4px"><a href="http://www.liftinghands.org/" ><img src="http://www.liftinghands.org/images/logo-hor.png" align="center"  style='width:225px;height:50px;'/></a></div>
             <!--[if (gte mso 9)|(IE)]>
             <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
             <tr>
@@ -107,7 +107,7 @@
     </tr>
     <!-- HERO -->
     <tr>
-        <td bgcolor="white" align="center" style="padding: 0px 10px 0px 10px;">
+        <td bgcolor="#ce4195" align="center" style="padding: 0px 10px 0px 10px;">
 		
             <!--[if (gte mso 9)|(IE)]>
             <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
@@ -130,7 +130,7 @@
     </tr>
     <!-- COPY BLOCK -->
     <tr>
-        <td bgcolor="white" align="center" style="padding: 0px 10px 0px 10px;">
+        <td bgcolor="#f4f4f4" align="center" style="padding: 0px 10px 0px 10px;">
             <!--[if (gte mso 9)|(IE)]>
             <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
             <tr>
@@ -193,7 +193,7 @@
     </tr>
     <!-- COPY CALLOUT -->
     <tr>
-        <td bgcolor="white" align="center" style="padding: 0px 10px 0px 10px;">
+        <td bgcolor="#f4f4f4" align="center" style="padding: 0px 10px 0px 10px;">
             <!--[if (gte mso 9)|(IE)]>
             <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
             <tr>
@@ -215,7 +215,7 @@
                 <!-- COPY -->
                 <tr>
                   <td bgcolor="#111111" align="left" style="padding: 0px 30px 40px 30px; border-radius: 0px 0px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;" >
-                    <p style="margin: 0;"><a href="mailto:monica@liftinghands.org" target="_blank" style="color: white;">monica@liftinghands.org</a></p>
+                    <p style="margin: 0;"><a href="mailto:monica@liftinghands.org" target="_blank" style="color: #ce4195;">monica@liftinghands.org</a></p>
                   </td>
                 </tr>
             </table>
@@ -228,7 +228,7 @@
     </tr>
     <!-- SUPPORT CALLOUT -->
     <tr>
-        <td bgcolor="white" align="center" style="padding: 30px 10px 0px 10px;">
+        <td bgcolor="#f4f4f4" align="center" style="padding: 30px 10px 0px 10px;">
             <!--[if (gte mso 9)|(IE)]>
             <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
             <tr>
@@ -237,7 +237,7 @@
             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" >
                 <!-- HEADLINE -->
                 <tr>
-                  <td bgcolor="white" align="center" style="padding: 30px 30px 30px 30px; border-radius: 4px 4px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;" >
+                  <td bgcolor="#ce4195" align="center" style="padding: 30px 30px 30px 30px; border-radius: 4px 4px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;" >
                     
                    
                   </td>
@@ -252,7 +252,7 @@
     </tr>
     <!-- FOOTER -->
     <tr>
-        <td bgcolor="white" align="center" style="padding: 0px 10px 0px 10px;">
+        <td bgcolor="#f4f4f4" align="center" style="padding: 0px 10px 0px 10px;">
             <!--[if (gte mso 9)|(IE)]>
             <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
             <tr>
