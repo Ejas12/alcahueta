@@ -70,9 +70,9 @@ $emailbody = gc $outhtml -Encoding UTF8 | Out-String
 $Subject = "Email Subject"
 Write-Host $profeemail $snapurl
 $msgid = Get-Random -Minimum 3 -Maximum 9999
-#python convert-csv-to-jpg.py $outcsv
+python convert-csv-to-jpg.py $outcsv
 $whatsappapicall = 'https://www.waboxapp.com/api/send/media?token=2f9946f8f7dbfc1cfb8ddeb854b10f3a5aca527b4b2a7&uid=50689910903&to='+$profephone+'&custom_uid=msg'+$msgid+'&caption=test+alcahueta&url='+$snapurl
-$whatsappapicall
-#Send-MailMessage -From $email -to $profeemail -Subject $Subject -Credential $gmailcred -Attachments $outcsv -Body $emailbody  -SmtpServer $SMTPServer  -port $SMTPPort -UseSsl -BodyAsHtml -Encoding UTF8
+Invoke-WebRequest $whatsappapicall
+Send-MailMessage -From $email -to $profeemail -Subject $Subject -Credential $gmailcred -Attachments $outcsv -Body $emailbody  -SmtpServer $SMTPServer  -port $SMTPPort -UseSsl -BodyAsHtml -Encoding UTF8
 } 
 

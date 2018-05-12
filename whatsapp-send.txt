@@ -1,0 +1,4 @@
+####requestcode#####
+yowsup-cli registration --requestcode sms --phone 50689910903 --cc 49 --mcc 123 --mnc 456 --env android
+
+
